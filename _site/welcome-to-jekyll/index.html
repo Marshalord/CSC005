@@ -24,7 +24,7 @@
     <meta content="http://localhost:4000/about/" property="article:author">
   
   
-    <meta content="http://localhost:4000/flexible-jekyll/assets/img/david-freeman.jpg" property="og:image">
+    <meta content="{{ "/assets/img/david-freeman.jpg" | prepend: site.baseurl }}" property="og:image">
   
   
     
@@ -46,17 +46,17 @@
     <meta name="twitter:description" content="You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.">
   
   
-    <meta name="twitter:image:src" content="http://localhost:4000/flexible-jekyll/assets/img/david-freeman.jpg">
+    <meta name="twitter:image:src" content="{{ "/assets/img/david-freeman.jpg" | prepend: site.baseurl }}">
   
 
 	<meta name="description" content="You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta property="og:image" content="">
-	<link rel="shortcut icon" href="/flexible-jekyll/assets/img/favicon/favicon.ico" type="image/x-icon">
-	<link rel="apple-touch-icon" href="/flexible-jekyll/assets/img/favicon/apple-touch-icon.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="/flexible-jekyll/assets/img/favicon/apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="/flexible-jekyll/assets/img/favicon/apple-touch-icon-114x114.png">
+	<link rel="shortcut icon" href="./assets/img/favicon/favicon.ico" type="image/x-icon">
+	<link rel="apple-touch-icon" href="./assets/img/favicon/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="./assets/img/favicon/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="./assets/img/favicon/apple-touch-icon-114x114.png">
 	<!-- Chrome, Firefox OS and Opera -->
 	<meta name="theme-color" content="#263959">
 	<!-- Windows Phone -->
@@ -67,9 +67,9 @@
 	<link href="https://fonts.googleapis.com/css?family=PT+Serif:400,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
 	<!-- Font Awesome -->
-	<link rel="stylesheet" href="/flexible-jekyll/assets/fonts/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" "{{ "/assets/fonts/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl }}">
 	<!-- Styles -->
-	<link rel="stylesheet" href="/flexible-jekyll/assets/css/main.css">
+	<link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
 </head>
 
 <body>
@@ -79,7 +79,7 @@
   <header>
     <div class="about">
       <div class="cover-author-image">
-        <a href="/flexible-jekyll/"><img src="/flexible-jekyll/assets/img/david-freeman.jpg" alt="David Freeman"></a>
+        <a href="./"><img src="{{ "/assets/img/david-freeman.jpg" | prepend: site.baseurl }}" alt="David Freeman"></a>
       </div>
       <div class="author-name">David Freeman</div>
       <p>I am a web developer focusing on front-end development. Always hungry to keep learning.</p>
