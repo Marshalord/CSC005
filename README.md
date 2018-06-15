@@ -7,7 +7,7 @@ Check the theme in action [Demo](https://marshalord.github.io/CSC005/)
 
 The main page would look like this:
 
-![Main page preview](https://marshalord.github.io/CSC005/assets/img/github.jpg)
+![Main page preview](https://marshalord.github.io/CSC005/assets/img/github.jpg?raw=true)
 
 ## Features
 
