@@ -1,9 +1,7 @@
 # CSC Insight - Security Daily News
 
 
-## Demo
-
-Check the theme in action [Demo](https://marshalord.github.io/CSC005/)
+## [Web](https://marshalord.github.io/CSC005/)
 
 The main page would look like this:
 
