@@ -5,7 +5,7 @@
 
 The main page would look like this:
 
-![Main page preview](https://marshalord.github.io/CSC005/assets/img/github.jpg?raw=true)(https://marshalord.github.io/CSC005/)
+![Main page preview](https://marshalord.github.io/CSC005/assets/img/github.jpg?raw=true)
 
 ## Components
 
