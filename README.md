@@ -7,13 +7,15 @@ The main page would look like this:
 
 ![Main page preview](https://marshalord.github.io/CSC005/assets/img/github.jpg?raw=true)
 
-## Features
+## Components
 
+- [Huginn](https://github.com/huginn/huginn)
+- [Jekyll](https://jekyllrb.com/)
+- [Baidu Translate API](http://api.fanyi.baidu.com/)
+- [jieba](https://github.com/fxsjy/jieba)
 - [Google Fonts](https://fonts.google.com/)
 - [Font Awesome](http://fontawesome.io/)
-- [Disqus](https://disqus.com/)
 - [Analytics](https://analytics.google.com/analytics/web/)
-- Support Emoji
 
 ### License
 
