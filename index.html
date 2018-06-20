@@ -11,7 +11,9 @@ layout: main
     <h2 class="post-title"><a href="{{post.tourl}}">{{post.title}}</a></h2>
     <p>{{ post.content | strip_html | slice:0,90 }}...</p>
     <span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
-    <span class="post-words">{% for tag in post.description %}{{ tag | append:'&nbsp;&nbsp;&nbsp;&nbsp;'}}{% endfor %}</span>
+    {% for tag in post.description %}
+    <span class="post-words"><a href="{{ tag | prepend: site.baseurl+'#' }}">{{ tag | append:'&nbsp;&nbsp;&nbsp;&nbsp;'}}</a></span>
+    {% endfor %}
   </div>
 </article>
 {% endfor %}
