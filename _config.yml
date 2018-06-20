@@ -1,6 +1,6 @@
 title: CSC INSIGHT
 description: Security Daily News
-permalink: ':title/'
+#permalink: ':title/'
 baseurl: "." # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
