@@ -2,7 +2,7 @@
 layout: post
 title: The Best Organizer Software
 date: 2017-09-12 00:00:00 +0300
-description: [Productivity, Software] # Add post description (optional)
+keywords: [Productivity, Software] # Add post description (optional)
 img: software.jpg # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
