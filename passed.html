@@ -3,7 +3,7 @@ layout: main
 title: CSC005-2018.06.13
 permalink: /passed/
 ---
-{% for post in yday %}
+{% for post in paginator.posts %}
 <article class="post">
   {% if post.img %}
     <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.tourl}}"></a>
