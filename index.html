@@ -12,7 +12,7 @@ layout: main
     <p>{{ post.content | strip_html | slice:0,90 }}...</p>
     <span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
     {% for tag in post.description %}
-    <span class="octicon octicon-tag"><a href="https://marshalord.github.io/CSC005//tags/#{{ tag }}">{{ tag }}</a></span>
+    <span class="post-words"><a class="octicon octicon-tag" href="https://marshalord.github.io/CSC005//tags/#{{ tag }}">{{ tag }}</a></span>
     <span>&nbsp;&nbsp;</span>
     {% endfor %}
   </div>
