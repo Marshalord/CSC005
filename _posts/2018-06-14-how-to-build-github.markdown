@@ -2,7 +2,6 @@
 layout: post
 title: How to build github
 date: 2018-06-14 00:00:00 +0800
-keywords: [Productivity, Workflow] # Add post description (optional)
 img: workflow.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Productivity, Workflow] # add tag

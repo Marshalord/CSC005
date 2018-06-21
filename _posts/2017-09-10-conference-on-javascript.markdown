@@ -3,7 +3,6 @@ layout: post
 title: Conference on Javascript
 date: 2017-09-10 00:00:00 +0300
 tourl: http://www.freebuf.com/articles/paper/174328.html
-keywords: [Js, Conference] # Add post description (optional)
 img: js-1.png # Add image post (optional)
 tags: [Js, Conference] # add tag
 ---
