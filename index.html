@@ -1,7 +1,7 @@
 ---
 layout: main
 ---
-{% for post in site.posts limit:5 %}
+{% for post in site.posts limit:20 %}
 <article class="post">
   {% if post.img %}
     <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.selfurl | append : post.img}})" href="{{post.tourl}}"></a>
@@ -18,5 +18,3 @@ layout: main
   </div>
 </article>
 {% endfor %}
-
-{% include pagination.html %}
