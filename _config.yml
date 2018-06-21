@@ -6,6 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "." # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+selfurl: "https://marshalord.github.io/CSC005/"
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings

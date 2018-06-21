@@ -1,11 +1,11 @@
 # CSC Insight - Security Daily News
 
 
-## [Web](https://marshalord.github.io/CSC005/)
+## [Web]({{site.selfurl}})
 
 The main page would look like this:
 
-![Main page preview](https://marshalord.github.io/CSC005/assets/img/github.jpg?raw=true)
+![Main page preview]({{site.selfurl}}assets/img/github.jpg?raw=true)
 
 ## Components
 
