@@ -42,9 +42,9 @@ permalink: /tags/
       document.write(a);
   }
 </script>
-<section class="blog-tags" onload="wirte()">
+<section class="blog-tags">
   <h1>Keywords</h1>
-  <div><script>document.write()</script></div>
+  <div  onload="wirte()"></div>
   <ul class="tags">
 <!--  cycles through tag list and creates header row of all tags used in site with accompanying per-tag counts...-->
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
