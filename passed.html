@@ -10,7 +10,7 @@ permalink: /passed/
       var y = dd.getFullYear();
       var m = dd.getMonth()+1;//获取当前月份的日期
       var d = dd.getDate();
-      return y+""+m+""+d;
+      return y*100+m*10+d;
   }
   </script>
 {% for post in site.posts%}
@@ -20,13 +20,13 @@ permalink: /passed/
   <script>
     var Ct = {{post.date | date: '%Y%m%d'}};
     document.write("Ct*100="+Ct*100+"<br />");
-    var Cts = Ct.toString();
     var Ctss = GetDateStr(-1);
-    document.write(Cts.match(Ctss));
-    if (Cts.match(Ctss)) {
+    document.write("Ctss*100="+Ctss*100+"<br />");
+    document.write(Ctss-Ct);
+    if (Ctss==Ct) {
       document.write('Cts中包含Text字符串');
     }
-    document.write("Cts="+Cts+"<br />");
+    document.write("Ct="+Ct+"<br />");
     document.write("Ctss="+Ctss+"<br />");
     document.write("yd="+GetDateStr(-1)+"<br />");
   </script>
