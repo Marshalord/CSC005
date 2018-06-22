@@ -16,8 +16,8 @@ permalink: /passed/
 {% for post in site.posts%}
 
 <article class="post">
-    <a><script>
-        {% assign handle_date = GetDateStr(-1) %}
+    <a>
+        {% assign handle_date = <script>document.write(GetDateStr(-1));</script> %}
         {{handle_date}}-document.write(GetDateStr(-1));
           {% case {{post.date | date: '%Y-%m-%d'}} %}
             {% when handle_date %}
@@ -25,7 +25,7 @@ permalink: /passed/
             {% else %}
                This is not a cake nor a cookie
           {% endcase %}
-          </script></a>
+          </a>
   {% if post.img %}
     <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.selfurl | append : post.img}})" href="{{post.tourl}}"></a>
   {% else %}
