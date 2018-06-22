@@ -19,7 +19,7 @@ permalink: /passed/
 <a>
   <script>
     var Ct = {{post.date | date: '%Y%m%d'}};
-    var Cts = Ct;
+    var Cts = Ct.toString();
     var Ctss = GetDateStr(-1);
     document.write(Cts.match(Ctss));
     if (Cts.match(Ctss)) {
