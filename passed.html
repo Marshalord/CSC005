@@ -6,7 +6,7 @@ permalink: /passed/
 {% for post in site.posts%}
 <article class="post">         
 {% assign day={{site.time|date:'%d'}} %}{% assign yday={{day|abs}}|plus:-1%}
-  {% if {{post.date | date:'%d' | abs}} == yday %}
+  {% if {{post.date | date:'%d' | abs | plus:-yday}} == flase %}
     <a>{{post.date | date:'%d' | abs}}&{{yday}}</a>
     {% if post.img %}
       <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.selfurl | append : post.img}})" href="{{post.tourl}}"></a>
