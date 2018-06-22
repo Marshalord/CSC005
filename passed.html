@@ -1,9 +1,10 @@
 ---
 layout: main
-title: CSC005-2018.06.13
+title: CSC005
 permalink: /passed/
 ---
-{% for post in site.posts offset:20 limit:20%}
+{% for post in site.posts%}
+<div>{{post.date | date: '%Y/%m/%d'}}</div>
 <article class="post">
   {% if post.img %}
     <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.selfurl | append : post.img}})" href="{{post.tourl}}"></a>
