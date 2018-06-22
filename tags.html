@@ -6,9 +6,72 @@ permalink: /tags/
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tag_words = site_tags | split:',' | sort %}
 {% assign day=site.time %}
+<script type="text/javascript">
+  Date.prototype.format = function (fmt) {
 
-<section class="blog-tags">
-  <h1>Keywords-1{{day-1|%Y/%m/%d}}</h1>
+      var
+          o = {
+
+
+              "M+": this.getMonth() + 1, //月份
+
+
+              "d+": this.getDate(), //日
+
+
+              "h+": this.getHours(), //小时
+
+
+              "m+": this.getMinutes(), //分
+
+
+              "s+": this.getSeconds(), //秒
+
+
+              "q+": Math.floor((this.getMonth() + 3) / 3), //季度
+
+
+              "S": this.getMilliseconds() //毫秒
+
+          };
+
+
+      if (/(y+)/.test(fmt))
+
+
+          fmt = fmt.replace(RegExp.$1,
+              (this.getFullYear() + "").substr(4 - RegExp.$1.length));
+
+
+      for (var
+              k in o)
+
+
+          if (new RegExp("(" + k + ")").test(fmt))
+
+
+              fmt = fmt.replace(RegExp.$1, (RegExp.$1.length == 1) ? (o[k]) : (("00" + o[k]).substr(("" + o[k])
+                  .length)));
+
+
+      return
+      fmt;
+  }
+
+  function getDate(day) {
+      var zdate = new Date();
+      var sdate = zdate.getTime() - (1 * 24 * 60 * 60 * 1000);
+      var edate = new Date(sdate - (day * 24 * 60 * 60 * 1000)).format("yyyy-MM-dd");
+      return edate;
+  }
+
+  function wirte() {
+      var a = getDate(-7);
+      document.write(a);
+  }
+</script>
+<section class="blog-tags" onload="wirte()">
+  <h1>Keywords<script>getDate(-1);</script></h1>
   <ul class="tags">
 <!--  cycles through tag list and creates header row of all tags used in site with accompanying per-tag counts...-->
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
