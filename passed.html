@@ -18,7 +18,7 @@ permalink: /passed/
 <article class="post">         
 <a>
   <script>
-    varCts = {{post.date | date: '%Y-%m-%d'}}
+    varCts = "{{post.date | date: '%Y-%m-%d'}}";
     if (Cts.indexOf(GetDateStr(-1)) > 0) {
       alert('Cts中包含Text字符串');
     }
