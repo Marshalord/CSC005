@@ -20,13 +20,13 @@ permalink: /passed/
   <script>
     var Cts = "{{post.date | date: '%Y-%m-%d'}}";
     var Ctss = ""+GetDateStr(-1);
-    document.write(Cts==Ctss);
-    if (Cts==Ctss) {
+    document.write(Cts.match(Ctss));
+    if (Cts.match(Ctss)) {
       document.write('Cts中包含Text字符串');
     }
-    document.write(Cts);
-    document.write(Ctss);
-    document.write(GetDateStr(-1));
+    document.write("Cts="+Cts+"<br />");
+    document.write("Cts="+Ctss+"<br />");
+    document.write("yd="+GetDateStr(-1)+"<br />");
   </script>
 
 </a>
