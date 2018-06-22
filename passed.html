@@ -18,6 +18,7 @@ permalink: /passed/
 <article class="post">
     <div><script>
         {% assign handle_date = GetDateStr(-1) %}
+        <a>{{handle_date}}</a><a>document.write(GetDateStr(-1));</a>
           {% case {{post.date | date: '%Y-%m-%d'}} %}
             {% when handle_date %}
                This is a cake
