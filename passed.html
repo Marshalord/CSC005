@@ -4,11 +4,11 @@ title: CSC005
 permalink: /passed/
 ---
 {% for post in site.posts%}
-<article class="post">         
 {% assign sday={{site.time|date:'%d'}} %}{% assign syday={{sday|abs}}|plus:-1%}
 {% assign pday={{post.date|date:'%d'}} %}{% assign pyday={{pday|abs}}%}
   {% if pyday == syday %}
-    <a>{{syday}}&{{pyday}}</a>
+  <article class="post">         
+
     {% if post.img %}
       <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.selfurl | append : post.img}})" href="{{post.tourl}}"></a>
     {% else %}
@@ -22,11 +22,11 @@ permalink: /passed/
         <span>&nbsp;&nbsp;</span>
       {% endfor %}
     </div>
+
+  </article>
   {% else %}
     {% continue %}
   {% endif %}
-</article>
-
 {% endfor %}
 
 
