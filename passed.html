@@ -14,19 +14,21 @@ permalink: /passed/
   }
   </script>
 {% for post in site.posts%}
-
+{% assign sign=0 %}
 <article class="post">         
 <a>
   <script>
     var Ct = {{post.date | date: '%Y%m%d'}};
     var Ctss = GetDateStr(-1);
     if (Ctss==Ct) {
-      {% continue %}
-      document.write('Cts中包含Text字符串');
+      {% assign sign=1 %}
     }
   </script>
 
 </a>
+  {% if sign==1 %}
+    {% continue %}
+  {% endif %}
 
   {% if post.img %}
     <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.selfurl | append : post.img}})" href="{{post.tourl}}"></a>
