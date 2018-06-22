@@ -19,16 +19,11 @@ permalink: /passed/
 <a>
   <script>
     var Ct = {{post.date | date: '%Y%m%d'}};
-    document.write("Ct*100="+Ct*100+"<br />");
     var Ctss = GetDateStr(-1);
-    document.write("Ctss*100="+Ctss*100+"<br />");
-    document.write(Ctss-Ct);
     if (Ctss==Ct) {
+      {% continue %}
       document.write('Cts中包含Text字符串');
     }
-    document.write("Ct="+Ct+"<br />");
-    document.write("Ctss="+Ctss+"<br />");
-    document.write("yd="+GetDateStr(-1)+"<br />");
   </script>
 
 </a>
