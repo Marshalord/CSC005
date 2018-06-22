@@ -16,10 +16,10 @@ permalink: /passed/
 {% for post in site.posts%}
 {% assign sign=0 %}
 <article class="post">         
-  {% assign sign=GetDateStr(-1) %}
+  {% assign sign=""+GetDateStr(-1) %}
   <a>
     {{post.date | date:'%Y%m%d'}}
-    {% if post.date==''+sign %}
+    {% if {{post.date | date:'%Y%m%d'}}==sign %}
       HiHi
     {% endif %}
   </a>
