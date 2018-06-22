@@ -19,7 +19,8 @@ permalink: /passed/
 <a>
   <script>
     var Cts = "{{post.date | date: '%Y-%m-%d'}}";
-    if (Cts.indexOf(GetDateStr(-1)) > 0) {
+    var Ctss = ""+GetDateStr(-1);
+    if (Cts.indexOf(Ctss) > 0) {
       document.write('Cts中包含Text字符串');
     }
   </script>
