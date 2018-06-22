@@ -17,6 +17,7 @@ permalink: /passed/
 {% assign sign=0 %}
 <article class="post">         
   {% assign sign=""+GetDateStr(-1) %}
+  {{sign}}
   <a>
     {{post.date | date:'%Y%m%d'}}
     {% if {{post.date | date:'%Y%m%d'}}==sign %}
