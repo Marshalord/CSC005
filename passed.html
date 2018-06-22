@@ -5,26 +5,27 @@ permalink: /passed/
 ---
 {% for post in site.posts%}
 <article class="post">         
-<a>{% assign day={{site.time|date:'%d'}} %}{{day|abs}}{% assign yday={{day|abs}}|plus:-1%}{{yday}}</a>
+{% assign day={{site.time|date:'%d'}} %}{{day|abs}}{% assign yday={{day|abs}}|plus:-1%}{{yday}}
   {% if {{post.date | date:'%d' | abs}} == yday %}
-  <a>{{post.date | date:'%d' | abs}}</a>
-  {% if post.img %}
-    <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.selfurl | append : post.img}})" href="{{post.tourl}}"></a>
-  {% else %}
-  {% endif %}
-  <div class="post-content">
-    <h2 class="post-title"><a href="{{post.tourl}}">{{post.title}}</a></h2>
-    <p>{{ post.content | strip_html | slice:0,90 }}...</p>
-    <span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
-    {% for tag in post.tags %}
-    <span class="post-words"><a href="{{site.selfurl}}tags/#{{ tag }}">{{ tag }}</a></span>
-    <span>&nbsp;&nbsp;</span>
-    {% endfor %}
-  </div>
+    <a>{{post.date | date:'%d' | abs}}&{{yady}}</a>
+    {% if post.img %}
+      <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.selfurl | append : post.img}})" href="{{post.tourl}}"></a>
+    {% else %}
+    {% endif %}
+    <div class="post-content">
+      <h2 class="post-title"><a href="{{post.tourl}}">{{post.title}}</a></h2>
+      <p>{{ post.content | strip_html | slice:0,90 }}...</p>
+      <span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
+      {% for tag in post.tags %}
+        <span class="post-words"><a href="{{site.selfurl}}tags/#{{ tag }}">{{ tag }}</a></span>
+        <span>&nbsp;&nbsp;</span>
+      {% endfor %}
+    </div>
   {% else %}
     {% continue %}
   {% endif %}
 </article>
+
 {% endfor %}
 
 
