@@ -8,15 +8,80 @@
       return y+"-"+m+"-"+d;
   }
   </script>
+<style type="text/css">
+  #date_nav li { 
+  float:left; /* 往左浮动 */
+  }
+  </style>
 <div class="container">
   <nav class="pagination" role="pagination">
-    <ul>
-      <p><span class="page-number"><a  href="{{site.selfurl}}passed/01/"><script>document.write(GetDateStr(-1));</script></a></span></p>
-      <p><span class="page-number"><a  href="{{site.selfurl}}passed/02/"><script>document.write(GetDateStr(-2));</script></a></span></p>
-      <p><span class="page-number"><a  href="{{site.selfurl}}passed/03/"><script>document.write(GetDateStr(-3));</script></a></span></p>
-      <p><span class="page-number"><a  href="{{site.selfurl}}passed/04/"><script>document.write(GetDateStr(-4));</script></a></span></p>
-      <p><span class="page-number"><a  href="{{site.selfurl}}passed/05/"><script>document.write(GetDateStr(-5));</script></a></span></p>
-      <p><span class="page-number"><a  href="{{site.selfurl}}passed/06/"><script>document.write(GetDateStr(-6));</script></a></span></p>
+    <ul id="date_nav">
+      <li>
+        <p>
+          <span class="page-number">
+            <a href="{{site.selfurl}}passed/01/">
+              <script>
+                document.write(GetDateStr(-1));
+              </script>
+            </a>
+          </span>
+        </p>
+      </li>
+      <li>
+        <p>
+          <span class="page-number">
+            <a href="{{site.selfurl}}passed/02/">
+              <script>
+                document.write(GetDateStr(-2));
+              </script>
+            </a>
+          </span>
+        </p>
+      </li>
+      <li>
+        <p>
+          <span class="page-number">
+            <a href="{{site.selfurl}}passed/03/">
+              <script>
+                document.write(GetDateStr(-3));
+              </script>
+            </a>
+          </span>
+        </p>
+      </li>
+      <li>
+        <p>
+          <span class="page-number">
+            <a href="{{site.selfurl}}passed/04/">
+              <script>
+                document.write(GetDateStr(-4));
+              </script>
+            </a>
+          </span>
+        </p>
+      </li>
+      <li>
+        <p>
+          <span class="page-number">
+            <a href="{{site.selfurl}}passed/05/">
+              <script>
+                document.write(GetDateStr(-5));
+              </script>
+            </a>
+          </span>
+        </p>
+      </li>
+      <li>
+        <p>
+          <span class="page-number">
+            <a href="{{site.selfurl}}passed/06/">
+              <script>
+                document.write(GetDateStr(-6));
+              </script>
+            </a>
+          </span>
+        </p>
+      </li>
 
     </ul>
   </nav>
