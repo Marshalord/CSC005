@@ -2,6 +2,11 @@
 layout: main
 ---
 {% for post in site.posts limit:20 %}
+
+{% assign sday={{site.time|date:'%d'}} %}{% assign syday={{sday|abs}}%}
+{% assign pday={{post.date|date:'%d'}} %}{% assign pyday={{pday|abs}}%}
+  {% if pyday == syday %}
+
 <article class="post">
   {% if post.img %}
     <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.selfurl | append : post.img}})" href="{{post.tourl}}"></a>
@@ -17,5 +22,10 @@ layout: main
     {% endfor %}
   </div>
 </article>
+
+{% else %}
+{% continue %}
+{% endif %}
+
 {% endfor %}
 {% include pagination.html %}
