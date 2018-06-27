@@ -1,8 +1,0 @@
----
-layout: post
-title: Default Passwords Aid Satori IoT Botnet Attacks
-date: 2018-06-25 02:25:02
-tourl: https://www.infosecurity-magazine.com:443/news/default-passwords-aid-satori-iot/
-tags: [exploit,CISO]
----
-Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.Researchers at�While Mirai was rampant two years ago, Satori was first discovered in late 2017 infecting more than 260,000 home routers within 12 hours, according to a Ashley Stephenson, CEO of Consumers using vulnerable routers can take preemptive steps by following the manufacturer�s instructions to disable remote administration, which Corero Network Security said reduces exploit surface. Yet experts want the industry to do more.Using the two analogies � a car manufacturer no longer issuing recalls and pharmacies continuing to distribute medicines deemed unsafe � Mukul Kumar, CISO and VP of cyber practice at�"We need a more formal update and �recall� mechanism in place," Kumar continued. "The end user in many cases doesn�t have the skill set or even the awareness to take action. Looking forward to the increasingly connected home � HVAC, security, lighting, etc. � the need for greater oversight is critical."In addition to default usernames and passwords, most IoT devices are shipped to consumers and enterprises with out-of-date, unsecure software that is never updated by manufacturers, said Chris Morales, head of security analytics at 
