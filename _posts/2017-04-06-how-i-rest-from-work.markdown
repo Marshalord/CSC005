@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I Rest From Work
-date: 2017-09-12 13:32:20 +0300
+date: 2018-06-27 13:32:20 +0300
 img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
