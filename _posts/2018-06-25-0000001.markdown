@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Default Passwords Aid Satori IoT Botnet Attacks 1
-date: 2018-06-25 02:25:02
+title: Default Passwords Aid Satori IoT Botnet Attacks 2
+date: 2018-06-26 02:25:02
 tourl: https://www.infosecurity-magazine.com:443/news/default-passwords-aid-satori-iot/
 tags: [exploit,CISO]
 ---
