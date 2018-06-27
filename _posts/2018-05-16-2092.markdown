@@ -1,0 +1,8 @@
+---
+layout: post
+title: Airports Ill-Equipped to Deal with Major Cyber-Attacks
+date: 2018-05-16 11:45:17
+tourl: https://www.infosecurity-magazine.com:443/news/airports-illequipped-cyberattacks/
+tags: [attack,act]
+---
+Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.Airports are ill-equipped to deal with a major cyber-attack, according to new research from The firms report Over recent years, the number of airport-related cyber threats has grown significantly. The damage caused by these successful threats confirms the need to address cybersecurity, the report reads.PA Consulting Group cited the following as trends that are increasing airports susceptibility to cyber-attacks: increased technology usage, hyper-connectivity, data-sharing obligations, customer centricity, IT/IoT towers, remote towers and airports as mega hubs.Fundamentally, the focus on physical security needs to be applied with the same rigor in the cyber-arena if airports are going to build resilience to potentially catastrophic cyber-attacks, said David Oliver, global transport security lead at PA Consulting Group. If the industry does not act now, it will find itself at increased vulnerability to cyber-attacks as new technologies become part of everyday operations.The report concludes by outlining the elements required to ensure airport cyber-resilience now and in the future:With the EU Network and Information Systems Directive, which aims to improve the cyber-resilience of the UKs essential services, now in force, UK airports risk penalties of up to Ł17m for failing to put in place appropriate cybersecurity measures, Oliver added.

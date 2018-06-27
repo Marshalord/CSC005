@@ -1,0 +1,8 @@
+---
+layout: post
+title: Vulnerability Spotlight: TALOS-2018-0545  Microsoft wimgapi LoadIntegrityInfo Code Execution Vulnerability
+date: 2018-06-13 17:00:57
+tourl: https://blogs.cisco.com/security/talos/vulnerability-spotlight-talos-2018-0545-microsoft-wimgapi-loadintegrityinfo-code-execution-vulnerability
+tags: [attack]
+---
+tttTalos is disclosing a remote code execution vulnerability in the Microsoft wimgapi library. The wimgapi DLL is used in the Microsoft Windows operating system to perform operations on Windows Imaging Format (WIM) files. WIM is a file-based disk image format created by Microsoft to simplify the deployment of Windows systems. If an attacker creates a specially crafted WIM file, they could be able to execute malicious code with the same access rights as the logged-in user, or just crash the system with a denial-of-service attack. The vulnerability is related to the file header parsing, which means it gets triggered even on simple operations. WIM files do not have a registered file type handler by default, which means that this vulnerability cannot be triggered by tricking a user into double-clicking a WIM file  at least not without registering a file-handler first.We'd love to hear from you! To earn points and badges for participating in the conversation, join 

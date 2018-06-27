@@ -1,0 +1,8 @@
+---
+layout: post
+title: Navy awards $653M Microsoft license deal
+date: 2018-05-14 01:56:12
+tourl: https://defensesystems.com/articles/2018/05/10/insight-public-sector-navy.aspx
+tags: [DOD]
+---
+Defense ITGovernment IT product reseller Insight Public Sector has won a three-year, $653.2 million blanket purchase agreement to supply Microsoft brand-name software licenses and cloud computing tools to the Department of the Navy.The Navy received four offers for the BPA via the General Services Administrations E-Buy website after sending the solicitation to 895 vendors. This BPA was issued as part of the DON Enterprise Software Licensing effort and policy and guidelines established under the Defense Departments Enterprise Software Initiative, DOD said in its Friday contracts digest.Defense agencies such as the Navy use enterprise licensing arrangements such as this one to consolidate agreements with IT product makers and resellers for commercial products and services.Products covered under the agreement with Insight Public Sector include desktop software, operating systems, server software, desktop sharing, virtualization, client access licenses, developer tools, management tools, mobility, utility and software assurance.The BPA has a three-year ordering period through May 2021 and Insight Public Sector will perform the work under its GSA Federal Supply Schedule contract.About the AuthorSign up for our newsletter.ttI agree to this site's 

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Data from 92 million accounts stolen from DNA testing site MyHeritage
+date: 2018-06-05 19:00:26
+tourl: https://www.cyberscoop.com/myheritage-data-breach-user-accounts/?category_news=technology
+tags: [GDPR,law]
+---
+More than 92 million users had data stolen from the online DNA and genealogy platform MyHeritage, the site announced on Tuesday.Omer Deutsch, the companys chief information security officer, said an independent security researcher discovered a file containing the collection tens of millions of email addresses and We determined that the file was legitimate and included the email addresses and hashed passwords of 92,283,889 users who had signed up to MyHeritage up to and including Oct 26, 2017 which is the date of the breach, Deutsch wrote in a blog post on Tuesday morning.The customer DNA and genealogy data that makes up the heart of the companys work is stored on systems segregated from the breached material, the company said.There is no reason to believe the systems with genetic data have been compromised, Deutsch said.The Israeli company said it has hired an unnamed outside cybersecurity firm to respond to the incident, and it is formally informing all the authorities required by Europes recently implemented GDPR law.MyHeritage also said it is adding two-factor authentication as an option for users.

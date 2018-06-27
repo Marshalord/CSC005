@@ -1,0 +1,8 @@
+---
+layout: post
+title: Hackers Steal $31m+ From South Korean Crypto-Exchange
+date: 2018-06-20 09:00:53
+tourl: https://www.infosecurity-magazine.com:443/news/hackers-steal-31m-cryptoexchange/
+tags: [attack]
+---
+Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.South Korean exchange Bithumb has been targeted by hackers for the second time in a year, this time losing over $31m in cryptocurrency.A notice from the firm, one of the worlds largest digital currency exchanges, claimed that the attack began last night and was discovered this morning, with around 35bn won ($31.5m) taken.The firm has halted deposits and withdrawals for the time being while it conducts a thorough review into what happened.Currencies affected are thought to include Ripple.Bithumb is thought to be the sixth largest exchange in the world based on its trading volume of over $370m.However, this isnt the first time it has been a target for cyber-attackers.Back in July 2017, The attacks continue to come thick-and-fast against digital currency exchanges. Bithumb rival Coinrail was targeted by hackers The news will continue to serve as a warning to investors of the risks involved in putting money into the nascent cryptocurrency market.North Korean hackers 

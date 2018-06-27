@@ -1,0 +1,8 @@
+---
+layout: post
+title: GAO: TRANSCOM cloud award should be cancelled
+date: 2018-06-01 17:00:55
+tourl: https://defensesystems.com/articles/2018/06/01/rean-oracle-protest-gao.aspx
+tags: [act,DOD]
+---
+CloudIn March REAN Cloud saw its cloud contract with the U.S. Transportation Command That deal has now gone to zero after the Government Accountability Office said the command improperly applied the rules governing its Other Transaction Authority.The Transportation Command GAO has told the Army, which is managing the OTA, to terminate the contract with REAN and use a competitive process.There also is the option to use an OTA again but the Army must prepare the appropriate justification required by the Competition in Contracting Act of 1984 to award a contract without competition.GAO has not released it full decision yet because it still needs to go through a vetting process to remove any proprietary information.The use of OTAs has grown exponentially in recent years as agencies have looked for ways to more quickly buy innovative technologies, but they generally are used to develop solutions that are not commercially available and bring them into production.Transportation Command raised eyebrows when it awarded REAN a production OTA for cloud migration services, which are generally commercially available.The scope of the REAN OTA also raised concerns, as it was to be available to any DOD agency looking to buy cloud services. Government agencies are not legally bound to follow GAOs recommendations but generally do. When they do not, GAO is required to make a report to Congress.About the AuthorSign up for our newsletter.ttI agree to this site's 

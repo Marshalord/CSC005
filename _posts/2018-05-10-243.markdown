@@ -1,0 +1,8 @@
+---
+layout: post
+title: #Belfast2018: The Three Key Aims of the National Cyber Security Strategy
+date: 2018-05-10 11:36:02
+tourl: https://www.infosecurity-magazine.com:443/news/belfast2018-national-cyber/
+tags: [law]
+---
+Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.At The first is deterring adversaries, Hersee said, by improving intelligence gathering, using new offensive cyber-capabilities, increasing investment in law enforcement and early intervention. Deterring is about making the UK a less attractive target in cyber space, he added. If we can reduce the reward of conducting cyber-attacks in terms of them being successful, then we can deter them from being conducted.The second is defending against cyber-threats, Hersee continued, with emphasis on improving advice and guidance, supporting CNI, increased public sector resilience and active cyber-defense.The third is developing skills and capabilities, he said, by encouraging an innovative industry, utilizing world-leading research, creating a pipeline of talent and overcoming future threats.With various National Cyber Security Strategy initiatives, services and efforts now in place to implement the above three areas of focus, its next steps are to measure its performance, develop its capability, scale up from small projects to national level projects and sustain success beyond the end of the project in 2021, Hersee concluded.For me, this is actually a whole of society approach; its about industry, academia, the public and the Government all working together to develop the skills, growth and technologies that we need to secure the UK.

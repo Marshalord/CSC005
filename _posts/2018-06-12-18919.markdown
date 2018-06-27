@@ -1,0 +1,8 @@
+---
+layout: post
+title: FBI announces arrest of 74 email fraudsters
+date: 2018-06-12 01:00:56
+tourl: /article/fbi-arrests-74-email-fraudsters/
+tags: [Department of Homeland Security]
+---
+The US Justice Department on Monday In addition to the 42 in the US, the arrests included 29 in Nigeria, as well as three in Canada, Mauritius and Poland. Federal authorities also seized nearly $2.4 million, and they disrupted and recovered approximately $14 million in fraudulent wire transfers.The arrests were the culmination of "Operation Wire Wire," a six-month campaign that involved the DOJ, the US Department of Homeland Security, the US Treasury and the US Postal Inspection Service.In a statement, US Secret Service Director Randolph "Tex" Alles said the "explosive expansion of the cyber domain has forced us to develop innovative ways of conducting these types of investigations."According to the Justice Deparment, BEC schemes often target employees with access to company finances, as well as businesses that regularly make wire transfer payments. The fraudsters will convince their targets to make wire transfers to criminally-controlled accounts, typically by impersonating a business partner. The fraudsters will also target individuals with romance or lottery scams. Sometimes they'll ask for sensitive information such as employee tax records instead of, or in addition to, asking for money. This type of scam has cost victims more than $3.7 billion, according to complaints logged with the Internet Crime Complaint Center (IC3), the Justice Department said. Meanwhile, recent research from the security company Proofpoint suggests these email fraud attacks are 

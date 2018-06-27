@@ -1,0 +1,8 @@
+---
+layout: post
+title: BEC Scammers Disrupted in Multi-Million Dollar Swoop
+date: 2018-06-12 09:00:58
+tourl: https://www.infosecurity-magazine.com:443/news/bec-scammers-multi-million-dollar/
+tags: [law]
+---
+Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.Several law enforcement agencies across the globe have announced a joint effort to disrupt Business Email Compromise (BEC) campaigns designed to defraud businesses and individuals.Operation WireWire saw the FBI work with police in Canada, Mauritius, Indonesia, Poland and Malaysia to arrest 74 suspects, including 42 in the US.Domestically, the The operation also led to the seizure of nearly $2.4m and the disruption and recovery of around $14m in fraudulent wire transfers.Many of these cases involved international criminal organizations which defrauded not only small-to-large sized businesses but also individuals including real estate purchasers and the elderly.BEC incurred the highest losses of any internet-based crime category in 2017, according to the most recent This operation demonstrates the FBIs commitment to disrupt and dismantle criminal enterprises that target American citizens and their businesses, said Separate research by ProofpointThe average number of people targeted in each organization was 13.Although there are AI-powered tools which can help to detect these scams, one of the best strategies for defense is improved user education and awareness alongside water-tight processes that forbid the transfer of large volumes of cash outside the organization without certain checks.

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Ex-CIA Employee Charged with Leak of Classified CIA Vault 7 Hacking Tools
+date: 2018-06-19 02:25:50
+tourl: https://www.bleepingcomputer.com/news/government/ex-cia-employee-charged-with-leak-of-classified-cia-vault-7-hacking-tools/
+tags: [law]
+---
+The Department of Justice has announced new charges against former CIA software engineer Joshua Schulte for allegedly leaking classified CIA documents, software projects, and hacking utilities Today, federal prosecutors have charged Schulte with 3 charges related to the theft and disclosure of the "Joshua Schulte, a former employee of the CIA, allegedly used his access at the agency to transmit classified material to an outside organization, said Manhattan U.S. Attorney Geoffrey S. Berman. During the course of this investigation, federal agents also discovered alleged child pornography in Schultes New York City residence.  We and our law enforcement partners are committed to protecting national security information and ensuring that those trusted to handle it honor their important responsibilities.  Unlawful disclosure of classified intelligence can pose a grave threat to our national security, potentially endangering the safety of Americans.The new charges are:When the Vault 7 tools were released by WikiLeaks it showed a deep and scary insight into how the CIA was utilizing hacking tools and methods to monitor computers, cell phones, televisions, webcams, SSL connections, and more. These tools had a wide range of uses from listening in on rooms using Samsung TVs to building malware for Windows.For more information on the tools that were released and what they were being used for, you can review our previous coverage of the Vault 7 leaks below:

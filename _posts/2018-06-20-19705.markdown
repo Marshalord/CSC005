@@ -1,0 +1,8 @@
+---
+layout: post
+title: ?South Korean crypto exchange Bithumb hacked
+date: 2018-06-20 05:00:50
+tourl: /article/south-korean-crypto-exchange-bithumb-hacked/
+tags: [hack]
+---
+South Korean cryptocurrency exchange Bithumb has been hacked, with $31.5 million worth of token stolen.The hack started around 11 pm KST on Tuesday, with the exchange blocking deposits from 1:30am, Wednesday. tBithumb,tIt said remaining tokens were being stored in cold wallets and that the company will compensate all losses. Affected token include the popular Ripple (XRP) cryptocurrency. Just last week, another exchange,tThe consecutive attacks within the same month have raised security concerns in exchanges. Korea InternetSecurity Agency said it is now investigating the matter. tHacks have been reported globally. In December,t tCarbon Black research suggests that as interest in cryptocurrency rises, so does the market for weapons to steal it. t tSamsung SDS has unveiled Nexfinance, an AI-powered blockchain finance platform that aims to help digital transformation in the enterprise. t tDon't dismiss blockchain because of the current over-exuberance. There are a few places where it's ready to have a major impact. t tSAP is steadfast that blockchain will be a big deal in the enterprise, business processes and IT. t tThis special report from ZDNet and TechRepublic examines the potential for blockchain to shake up the economy and redefine industries. Download the entire report as a free PDF ebook.

@@ -1,0 +1,8 @@
+---
+layout: post
+title: #Infosec18: Regulation is Top Driver of Cybersecurity, Now & in the Future
+date: 2018-06-05 09:00:22
+tourl: https://www.infosecurity-magazine.com:443/news/infosec18-regulations-top-driver/
+tags: [GDPR,regulations]
+---
+Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.Launched today at The GDPR is putting mitigation technologies such as encryption, tokenization and anything under the banner of anonymization/pseudonymization very firmly into public consciousness, and will drive innovations in the tech and governance spaces, said consultant Neira Jones.For Raef Meeuwisse, author of With regards to greater awareness of cybersecurity as a business risk, Dr Jessica Barker, co-founder of Looking to future and the factors that will drive cybersecurity over the next five years, GDPR and regulations still came out on top (34% of respondents), with greater use of cloud platforms (34%), adoption of AI and automation technologies (28%) and increased creativity of attacks (28%) also proving popular.To conclude, respondents were asked if they thought the cybersecurity industry was in a good place. Of the pros surveyed, 27 answered with 20 undecided on a yes and no viewpoint, four answered positively and three said it was not in a good place.Dan Raywood, contributing editor, You can download and read the report in full 

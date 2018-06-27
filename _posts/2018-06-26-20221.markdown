@@ -1,0 +1,8 @@
+---
+layout: post
+title: School's Not out for Hackers This Summer
+date: 2018-06-26 17:00:50
+tourl: https://www.infosecurity-magazine.com:443/news/schools-not-out-for-summer-at/
+tags: [hack]
+---
+Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.Parents looking to keep their teens challenged this summer can enroll them in In a Additionally, David Jarvis, security lead for the IBM Institute for Business Value, and Heather Ricciuto, academic outreach leader for The newest lesson for the curriculum is ""A small group of IBM Security experts volunteered their time to help develop this exciting new defensive hacking lesson. We are thrilled to see the fruits of our collaboration made available today, just in time for summer."Its understood that these lessons arent establishing the trajectory of a participant's career. No matter where they end up in their professional lives...these students will always be hackers at heart. For teens looking to develop the grit, resourcefulness and creativity necessary to solve a wide variety of problems, this summer is the perfect time to learn how to hack, Herzog wrote.

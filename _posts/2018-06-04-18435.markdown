@@ -1,0 +1,8 @@
+---
+layout: post
+title: DHS: 'Nefarious actors' could be exploiting SS7 flaw
+date: 2018-06-04 13:05:27
+tourl: https://www.cyberscoop.com/ss7-stingrays-imsi-catchers-chris-krebs-dhs-ron-wyden/?category_news=technology
+tags: [Department of Homeland Security,DHS,Exploitation,law]
+---
+The Department of Homeland Security has received reports that nefarious actors may be exploiting cellular communications vulnerabilities to spy on Americans, according to Chris Krebs, a senior DHS official.Cybersecurity experts have Krebs revealed the possible exploitation of SS7 in a May 22 The devices in question, known as Stingrays or IMSI catchers, imitate a cell tower to capture caller location and other associated data. They have been used by U.S. law enforcement for years, but their use for foreign espionage and hacking in the U.S. has been a source of speculation.From January to November 2017, DHS deployed sensors in Washington, D.C., area in search of the rogue IMSI catchers, Krebs said in his latest missive to Wyden.The pilot project revealed activity that appeared consistent with IMSI catchers in the D.C. area, including close to potentially sensitive facilities like the White House, Krebs wrote. The department hasnt validated or attributed that activity to specific entities or devices, he added.As we discussed, NPPD lacks the appropriate enforcement and counterintelligence authorities to address your specific concerns with IMSI catcher technologies, Krebs wrote.Krebs had previously Wyden has since lifted his hold on Krebss nomination, a key cybersecurity position for DHS that he is already filling in an acting capacity. However, another senator has blocked the nomination, a Senate aide told CyberScoop. The aide did not specify why.

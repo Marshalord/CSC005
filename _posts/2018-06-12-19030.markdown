@@ -1,0 +1,8 @@
+---
+layout: post
+title: Do you Trust your IoT Device and its Vendor?
+date: 2018-06-12 17:17:17
+tourl: https://blogs.cisco.com/digital/do-you-trust-your-iot-device-and-its-vendor
+tags: [attack]
+---
+tttDoes your vendor care about deploying security patches or firmware updates? Do they understand the constrains of an Internet of Things (IoT) architecture? Do they communicate important actions you need to take and are committed to conducting business at the highest standards? If you have not asked your technology vendor(s) these questionsyou should. Take a look at Ciscos We believe that trust is key to any successful relationship. Customers and partners trust our solutions, our advice and our support. Overall, they trust us to do the right thing. We do not take that for granted. At Cisco, every employee plays a role in building and maintaining trust. We do this by, accurately advising our customers and partners, conducting business with All of the above factors are especially important as our customers and partners tackle challenges created by trends like digital transformation and IoT. For example, all IoT devices predictions point to 20 billion plus devices by the year 2020. More devices mean a greater attack surface. The majority of these devices will lack the security capabilities to mitigate threats.We value the trust that our customers put in our products and brand. We know that in order to retain your trust, we must not let you down. To that end, we focus every day and everything we do on our We'd love to hear from you! To earn points and badges for participating in the conversation, join 

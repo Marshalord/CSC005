@@ -1,0 +1,8 @@
+---
+layout: post
+title: Cisco Integrated System for Microsoft Azure Stack just upped the ante
+date: 2018-06-13 13:01:01
+tourl: https://blogs.cisco.com/datacenter/cisco-integrated-system-for-microsoft-azure-stack-just-upped-the-ante
+tags: [GDPR]
+---
+tttJust in time for summer, Cisco offers new configurations for Ciscos Azure stack solution. These newest configurations include hybrid storage (flash and SAS storage) which provide storage options from 32-96TB/server in clusters ranging from 4 to 12 nodes in increments of one. Just imagine how many Azure workloads you can deploy with this scale.  The M5 provides enhanced system capacities over the previous M4 based systems:The hybrid configurations expand Cisco Integrated System for Microsoft Azure Stack that also includes Customers who store data that must meet regulatory requirements such as GDPR, have compliance policies that prohibit cloud use, or simply have cloud connectivity issues should look to the Cisco Azure Stack system for resolution.And just to remind you why our system has the most competitive offer for your Azure Stack projects- Cisco is the only Azure Stack solution provider that offers:Microsoft Azure Stack on Cisco UCS delivers accelerated growth and innovation, provides simplified management and control, and earned confidence and trust supported by an industry-leading partnership.Learn why customers continue to standardize on Cisco by visiting #azure #Hybridcloud #ciscoUCS #azurestack #ciscodatacentertttttWe'd love to hear from you! To earn points and badges for participating in the conversation, join 

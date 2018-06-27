@@ -1,0 +1,8 @@
+---
+layout: post
+title: Apple reveals latest government data demand figures
+date: 2018-05-25 19:01:15
+tourl: https://www.zdnet.com/article/apple-reveals-latest-government-data-demand-figures/
+tags: [law,WhatsApp]
+---
+(Image: file photo)New figures in the company's Data was turned over in 79 percent of cases.The number of demands are down slightly on the first half of the year, but the number devices that the government wanted access to rocketed.In the US, the company said 90 percent of those device requests were subpoenas -- which don't require a court's approval, and only 6 percent were The company said the high number of devices specified in US requests was largely due to device repair fraud investigations and investigations into stolen devices and fraudulent purchases.Data was provided in 82 percent of cases.The company was also requested to preserve account data for up to three months in 1,214 cases, affecting 2,547 accounts, while law enforcement obtained the right legal process to access the data.Apple also said that it didn't delete any accounts when requested -- though seven accounts were restricted. The company also said it received between 16,000 and 16,249 national security orders, including secret rulings from theBetween 8,000 and 8,249 accounts were affected.In its last report, Apple revealed it had become the latest tech giant to As with all national The company said beginning in the next transparency report -- expected later this year -- Apple will disclose the number of apps removed from its app stores.Zack Whittaker can be reached securely on Signal and WhatsApp at 646-7558849, and his PGP fingerprint for email is: 4D0E 92F2 E36A EC51 DAAE 5D97 CB8C 15FA EB6C EEA5.

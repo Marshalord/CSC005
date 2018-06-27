@@ -1,0 +1,8 @@
+---
+layout: post
+title: FBI: Cybercrime Losses Drop as Ransomware Reporting Falls Sharply
+date: 2018-05-09 09:45:34
+tourl: https://www.infosecurity-magazine.com:443/news/cybercrime-losses-drop-ransomware/
+tags: [law,attack]
+---
+Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.Total reported cybercrime losses dropped slightly last year to just over $1.4bn, with ransomware reports falling sharply, according to the latest annual stats from theThe IC3 People are losing their confidence in government and law enforcement agencies to protect them from cyber-criminals, argued HoweverThe top money-earner from 2017 was BEC, netting the black hats over $675m from 15,690 complaints, an average pay-out of over $43,000 per attack.The next most lucrative attack types of 2017 were confidence/romance fraud ($211m) and non-payment/non delivery ($141m).The latter also topped the top three most popular attacks, with the FBI receiving over 84,000 complaints last year, followed by personal data breaches (30,904) and phishing (25,344).Perhaps unsurprisingly, the over 60s represent the most frequently targeted age group (49,523) and those suffering the biggest cumulative losses ($343m).Outside the US, the top victim countries were Canada (3164 cases), India (2819) and the UK (1383).

@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike announces $1 million warranty for breaches that happen under its watch
+date: 2018-06-06 15:15:26
+tourl: https://www.cyberscoop.com/crowdstrike-1-million-warranty-announcement/?category_news=technology
+tags: [Crowdstrike]
+---
+CrowdStrike is affording customers of its flagship cybersecurity service a free warranty to at least partially cover the cost of a breach should one occur on a system its protecting.CrowdStrike Other industries have long offered product warranties to assure customers that the products they purchase will function as advertised. This has not been the case in cybersecurity, where customers generally have little recourse when security products fail to protect them, the company said.Historically, even if an organization employs a reputable cybersecurity product to protect its systems, it generally has to bear the cost if it suffers a breach.CrowdStrikes new warranty covers the companys Falcon Endpoint Protection Complete customers for up to $1 million if a breach happens in the environment was hired to protect. Breaches come in all sizes, and $1 million is chump change compared to the cost of responding to behemoth ones like But a free-of-charge breach warranty is nonetheless a unique offering as CrowdStrike seeks to differentiate itself in an With cybersecurity breaches dominating the headlines every week, its clear the industry can benefit from more accountability, said CrowdStrike co-founder and CEO George Kurtz in a The warranty covers a broad array of activities related to breach response, including legal fees, notification, credit monitoring services for victims, forensic investigation, public relations and even extortion payments.

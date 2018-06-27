@@ -1,0 +1,8 @@
+---
+layout: post
+title: Widespread Zip Slip vulnerability affects AWS, HP tools, researchers say
+date: 2018-06-05 21:25:19
+tourl: https://www.cyberscoop.com/widespread-zip-slip-vulnerability-affects-aws-hp-tools-researchers-say/?category_news=technology
+tags: [exploit]
+---
+A new widespread vulnerability that lets an attacker execute remote commands affects web development tools offered by Amazon Web Services, HP, and other companies, according to secure-coding startup Snyk.The so-called Zip Slip vulnerability, which is particularly prevalent in JavaScript, affects thousands of projects supported by those internet giants plus other companies, Snyk co-founder Danny Grander said in an [T]his type of vulnerability has existed before, but recently it has manifested itself in a much larger number of projects and libraries, Grander wrote.The vulnerability allows an attacker to gain access to parts of the file system outside of the target folder in which they should reside, according to Snyk, potentially letting the adversary overwrite configuration files. To do that, an attacker needs both a a malicious archive and extraction code that does not perform validation checking, the firm said.Snyk said that it began privately disclosing the vulnerability to affected coding libraries on April 15, and that Amazon, HP and others have since released patches.Given the severity and widespread nature of the Zip Slip vulnerability, I very strongly recommend you spend some time ensuring you are not vulnerable either through other libraries or your own code, Grander wrote.Snyk included a video demonstrating the exploit in Granders blog post:

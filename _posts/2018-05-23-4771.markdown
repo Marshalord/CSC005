@@ -1,0 +1,8 @@
+---
+layout: post
+title: FBI Admits Overestimating Number of Encrypted Phones it Cannot Access
+date: 2018-05-23 11:01:07
+tourl: https://www.infosecurity-magazine.com:443/news/fbi-overestimating-number/
+tags: [law]
+---
+Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.Director Christopher Wray He described the situation as an urgent public safety issue and has referred to the figure several times since when discussing in public the challenge facing law enforcers of going dark.However, in a statement seen by the The FBIs initial assessment is that programming errors resulted in significant over-counting of mobile devices reported, it admitted.A new audit could take weeks to complete but it is thought the real figure could be closer to 1000 devices.The FBI has beenIn February, a group of world-renowned cryptography experts These experts included Bruce Schneier, Paul Kocher, Steven Bellovin, and Martin Hellman  the latter winning the 2015 Turing Award for inventing public key cryptography.The The scope of this problem is called into doubt by services offered by third-party vendors like Cellebrite and Grayshift, which can reportedly bypass encryption on even the newest phones, it claimed.The Bureaus credibility on this issue was also undercut by a recent 

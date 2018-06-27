@@ -1,0 +1,8 @@
+---
+layout: post
+title: Two Canadian Banks Announce Hacks Over the Weekend
+date: 2018-05-29 09:40:12
+tourl: https://www.bleepingcomputer.com/news/security/two-canadian-banks-announce-hacks-over-the-weekend/
+tags: [hack]
+---
+Two Canadian banks put out statements on Monday announcing separate cyber-incidents affecting their customers.The two are Simplii Financial, a subsidiary of CIBC, and the Bank of Montreal two of Canada's biggest banks.The first one to put out a The bank is currently investigating if the claim is true, but in the meantime, it says it deployed "enhanced online fraud monitoring and online banking security measures" to prevent abuse of customers' data.Simplii Financial promised to "return 100% of the money lost from the affected bank account," in case users notice and report any fraudulent transactions.Simplii also said there's no evidence that customers of CIBC its parent company were affected, and the incident seems to be contained in its branch only.An hour after Simplii put out its statement, Bank of Montreal put out a similar Bank of Montreal did not reveal how many customers might have had their data compromised but said it believes to have closed the hackers' point of entry into its systems.Bank officials also added that they believe the hack originated from outside the country, albeit they did not elaborate on this claim with any other information.Statements from both banks were kept to a minimum as both institutions are still investigating the incident. Spokesperson for both banks were not available for comment.Some users are downplaying the hacks' importance due to the limited number of exposed accounts, especially when compared to the Equifax mega breach that affected over 145.5 million US users last year.

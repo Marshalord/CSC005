@@ -1,0 +1,8 @@
+---
+layout: post
+title: 23,000 Individuals Affected in HealthEquity Breach
+date: 2018-06-14 19:01:01
+tourl: https://www.infosecurity-magazine.com:443/news/23000-individuals-affected-in/
+tags: [exploit,attack]
+---
+Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.A company that handles millions of health savings accounts (HSAs) has suffered a data breach in which the information of 23,000 was compromised. On 11 April, the email account of a The healthcare industry is a growing target for cyber-attacks because of the highly valuable information stored within these organizations," said Tim Erlin, VP product management and strategy, The biggest risk for those affected is identity theft, given that Social ecurity numbers were compromised," Erlin continued. "HealthEquity seems to realize this fact and as offered identity theft monitoring services in addition to the usual credit monitoring. The fact that this breach was detected two days after it occurred is notable and a sign that HealthEquity was paying attention.News of the breach comes only days after The healthcare industry is one of the most frequently targeted sectors, as cyber-criminals exploit known weaknesses where they can gain access to highly sensitive information that has great value on the dark web."The fact that healthcare providers databases can be hacked, dumped and sold to the highest bidder (with the lowest morals), is quite troubling," the report states. "Healthcare systems store some of the most sensitive and private information about us, and this information is exposed to a wide range of cyber-attacks on a huge attack surface."

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Clipboard Hijacker Targeting Bitcoin & Ethereum Users Infects Over 300,0000 PCs
+date: 2018-06-15 09:30:55
+tourl: https://www.bleepingcomputer.com/news/security/clipboard-hijacker-targeting-bitcoin-and-ethereum-users-infects-over-300-0000-pcs/
+tags: [China]
+---
+A malware campaign spreading a clipboard hijacker has infected over 300,000 computers, according to Chinese security firm Qihoo 360 Total Security.The campaign has been raging for the past week and has spread a malware which Qihoo researchers have named The malware's purpose is to intercept content recorded in the Windows clipboard, look for strings resembling Bitcoin and Ethereum addresses, and replace them with ones owned by the malware's authors.ClipboardWalletHijacker's end-plan is to hijack BTC and ETH transactions, so victims unwittingly send funds to the malware's authors.The malware will use the following addresses when replacing strings in users' clipboards:  Checking the balances of these addresses using Blockchain.info (Since Qihoo 360 is a vendor with the vast majority of its presence on the Chinese market, it is believed that most of the 300,000 infected PCs are located in China and neighboring countries.But this is not the only cryptocurrency-focused malware campaign discovered these past weeks by Qihoo researchers.They've also stumbled upon Researchers also uncovered Qihoo also discovered the 

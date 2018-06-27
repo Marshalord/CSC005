@@ -1,0 +1,8 @@
+---
+layout: post
+title: VPNFilter Can Also Infect ASUS, D-Link, Huawei, Ubiquiti, UPVEL, and ZTE Devices
+date: 2018-06-06 15:55:22
+tourl: https://www.bleepingcomputer.com/news/security/vpnfilter-can-also-infect-asus-d-link-huawei-ubiquiti-upvel-and-zte-devices/
+tags: [MikroTik]
+---
+The VPNFilter malware that infected over 500,000 routers and NAS devices across 54 countries during the past few months is much worse than previously thought.According to new research technical details published today by the Cisco Talos security team, the malware which was initially thought to be able to infect devices from Linksys, MikroTik, Netgear, TP-Link, and QNAP can also infect routers made by ASUS, D-Link, Huawei, Ubiquiti, UPVEL, and ZTE.The list of devices vulnerable to VPNFilter has seen a sharp jump from Cisco's original report, going from 16 device models to 71 and possibly more. The full list is embedded at the bottom of this article.Furthermore, researchers have also discovered new VPNFilter capabilities, packed as third-stage plugins, as part of the malware's tri-stage deployment system.Cisco experts said they discovered the following two new third-stage plugins.These two new plugins add to the two already known.Technical details about the VPNFilter malware, in general, are available in Cisco's The Below is the updated list of routers and NAS devices targeted by the VPNFilter malware. Instructions on how to safely remove the malware are available 

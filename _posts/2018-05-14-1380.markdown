@@ -1,0 +1,8 @@
+---
+layout: post
+title: Danish Railway Company DSB Suffers DDoS Attack
+date: 2018-05-14 10:51:14
+tourl: https://www.infosecurity-magazine.com:443/news/danish-railway-ddos-attack/
+tags: [attack]
+---
+Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.Danish rail travelers found buying a ticket difficult yesterday, following a DDoS attack on the railway company DSB has more than 195 million passengers every year but, as reported by We have all of our experts on the case, said DSB spokesperson Aske Wieth-Knudsen, with all systems apparently working as normal this morning.The DDoS attack seen in Denmark this weekend on critical national infrastructure is precisely the type of attack that EU Governments are seeking to protect citizens against with last weeks introduction of the Network and Information Systems Directive (NIS), said Andrew Lloyd, president, Keeping the control systems (e.g. railway signaling, power circuits and track movements) secure greatly reduces the risk of a catastrophic outcome that risks public safety. That said, a successful attack on the more vulnerable management systems can cause widespread disruption. This DDoS attack on Danish railways ticketing site can be added to a growing list of such cyber-attacks that include last Octobers DDoS attack on the Swedish Railways that took out their train ordering system for two days resulting in travel chaos.The lessons are clear, Lloyd added; transportation companies and other operators of essential services have to invest in proactive cybersecurity defenses to ensure that their services can stay online and open for business during a cyber-attack.

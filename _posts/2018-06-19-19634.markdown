@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike valued at $3 billion with new $200 million infusion
+date: 2018-06-19 16:15:51
+tourl: https://www.cyberscoop.com/crowdstrike-3-billion-valuation-200-million-series-e/?category_news=technology
+tags: [Crowdstrike]
+---
+Prominent California-based cybersecurity firm CrowdStrike General Atlantic, Accel and IVP led the round. March Capital and CapitalG participated.The private company provides with cloud-hosted endpoint security using artificial intelligence, providing its customers with visibility into risks and threats their networks face. CrowdStrike claims that its platform processes 100 billion security events per day.The company has garnered attention for responding to high-profile security incidents and publishing research on nefarious threat actors. The Democratic National Committee About a year ago, the company CEO George Kurtz said in a Having been a unicorn for a year, CrowdStrike is closely watched, among other cybersecurity companies, for major business moves. Observers CrowdStrike recently CrowdStrike did not respond to a request for comment.

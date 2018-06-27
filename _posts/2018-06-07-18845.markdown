@@ -1,0 +1,8 @@
+---
+layout: post
+title: Congress wants to prevent states from weakening encryption
+date: 2018-06-07 18:45:21
+tourl: https://www.cyberscoop.com/encrypt-act-ted-lieu-suzan-delbene-mike-bishop-jim-jordan/?category_news=technology
+tags: [bill,law,act]
+---
+A bipartisan group of House lawmakers plans to reintroduce legislation Thursday that would preempt any attempts by states to weaken encryption.The bill would bar states from compelling a tech company to design or alter the security functions in its product or service to allow the surveillance of any user of such product or service, according to its text.Republican Reps. Mike Bishop of Michigan and Jim Jordan of Ohio and Democratic Reps. Ted Lieu of California and Suzan DelBene of Washington are the bills sponsors.The bill also would keep states from prohibiting the sale of products or services with strong encryption. Lieu introduced the legislation in 2016, but it stalled during that congressional session.Law enforcement officials have said strong encryption has hampered numerous investigations by thwarting access to a suspects communications. However, those claims were undercut after the FBI admitted in May it had Lieu said the bill was an effort to have a national discussion about encryption while protecting consumers security.Any discussion of encryption and law enforcement access to data needs to happen at the federal level, Lieu said in a statement, adding that having 50 different mandatory state-level encryption standards is bad for security, consumers, innovation, and ultimately law enforcement.The ENCRYPT Act is the latest move by lawmakers to fend off attempts to weaken product security. Last month, Lieu and others You can read the full text of the ENCRYPT Act below.

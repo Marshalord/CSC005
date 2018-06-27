@@ -1,0 +1,8 @@
+---
+layout: post
+title: Comcast fixes another Xfinity website data leak
+date: 2018-06-25 15:00:36
+tourl: /article/comcast-fixes-another-xfinity-website-data-leak/
+tags: [WhatsApp]
+---
+(Image: file photo)A little-known page on Comcast'sAn anonymous security researcher droppedThe API was used as part of the Xfinity's website to help customers find stores and get account information. Because the API only returns data when it recognizes an Xfinity customer's IP address, accessing a line owner's customer data requires someone to already be on a customer's network. But the researcher said that anyone or anything connected to a customer's Wi-Fi network -- including apps -- could obtain the same customer account information, without obtaining their permission. Comcast shut down the API after we contacted the company Friday. "There's nothing more important than our customers' privacy and security," said a spokesperson. "As soon as we became aware of this situation, our engineers turned the feature off, which could only be accessed within a customer's home or while logged into the customer's Wi-Fi network." "We have no reason to believe that anyone's account information was improperly taken or used," said the spokesperson, citing no evidence.It's the second Xfinity security issue in as many months. Last month You can send tips securely over Signal and WhatsApp at 646-7558849. You can also send PGP email with the fingerprint: 4D0E 92F2 E36A EC51 DAAE 5D97 CB8C 15FA EB6C EEA5.

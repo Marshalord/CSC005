@@ -1,0 +1,8 @@
+---
+layout: post
+title: US Fraudster Pleads Guilty to Using OPM Breach Data
+date: 2018-06-19 11:00:50
+tourl: https://www.infosecurity-magazine.com:443/news/us-fraudster-pleads-guilty-using/
+tags: [hack]
+---
+Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.A US woman has pleaded guilty to using data stolen in the notorious 2015 OPM breach to secure fraudulent loans.Karvia Cross, 39, of Bowie, Maryland, pleaded guilty to conspiracy to commit bank fraud and aggravated identity theft and could theoretically face anything from two to 30 years behind bars.She is said to have helped mastermind a wide-ranging fraud campaign, using OPM breach victims stolen identities to obtain personal and vehicle loans from Langley Federal Credit Union (LFCU).LFCU disbursed loan proceeds via checks and transfers into the checking and savings accounts opened through these fraudulent applications, the Department of Justice Cross and others then withdrew the fraudulently obtained funds, the DoJ said.Co-defendant Marlon McKnight pleaded guilty to the same charges on June 11.The revelations are interesting as up until now the US government has That led many to speculate that foreign agents had co-ordinated the hack to obtain information which could be used to blackmail, coerce and intimidate US personnel and potentially even recruit spies.Its somewhat unusual therefore that the same data found its way presumably onto the cybercrime underground where fraudsters like Cross could access it, although theres no official confirmation of this.The breach itself was said to have 
