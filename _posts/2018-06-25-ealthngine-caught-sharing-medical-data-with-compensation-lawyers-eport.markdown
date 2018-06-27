@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HealthEngine caught sharing medical data with compensation lawyers Report
-date: 2018-06-25 02:23:01
+date: 2018-06-25 02:23:01 +0300
 tourl: /article/healthengine-caught-sharing-medical-data-with-compensation-lawyers-report/
 tags: [law]
 ---
