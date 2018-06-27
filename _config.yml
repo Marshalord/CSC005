@@ -26,7 +26,11 @@ discus-identifier: mr-brown # add your discus identifier
 analytics: # Google Analytics
 
 # Build Settings
-markdown: md
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input:  GFM
+  syntax_highlighter: rouge
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
