@@ -954,7 +954,7 @@ table tfoot td {
   width: 240px;
   height: 100%;
   padding: 20px;
-  padding-left: 1270px;
+  margin-left: 1270px;
 }
 
 .righttags .righttest {
