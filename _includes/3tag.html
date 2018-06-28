@@ -1,9 +1,5 @@
----
-layout: null
-styles: [tagCloud.css]
-scripts: [tagCloud.js]
----
-
+<script type="text/javascript" src="{{site.selfurl}}assets/js/tagCloud.js"></script> 
+ <link rel="stylesheet" href="{{site.selfurl}}assets/css/tagCloud.css">
 <div class="tagCloud">
     {% for tag in site.tags %}
     <a href="#{{ tag | first }}">{{ tag | first }}</a>
