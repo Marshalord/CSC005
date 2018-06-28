@@ -955,9 +955,11 @@ table tfoot td {
   left: 0;
   width: 240px;
   height: 100%;
-  padding: 20px;
-  margin-left: 1270px;
+  padding: 0;
+  margin-left: 1250px;
   float: right;
+  overflow: scroll;
+
 }
 
 .righttags .righttest {
@@ -986,8 +988,6 @@ table tfoot td {
 .ultags {
   margin: 1px;
   padding: 1px;
-  overflow: scroll;
-
 }
 
 .ultags li {
