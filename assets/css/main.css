@@ -970,6 +970,46 @@ table tfoot td {
   color: #333030;
 }
 
+.ulblog-tags {
+  width: 100%;
+  background-color: #ffffff;
+  padding: 0 20px 20px;
+}
+
+.ulblog-tags h1 {
+  font-size: 30px;
+  text-align: center;
+  line-height: 1.3;
+  color: #263959;
+}
+
+.ultags {
+  margin: 0;
+  padding: 10px;
+}
+
+.ultags li {
+  display: inline-block;
+  margin: 5px;
+  list-style: none;
+}
+
+.ultags li a {
+  text-decoration: none;
+  color: #263959;
+  display: inline-block;
+  padding: 5px 10px;
+  border: 1px solid #ecf0f1;
+  background-color: #fafafa;
+  -webkit-transition: all .3s;
+  -o-transition: all .3s;
+  transition: all .3s;
+}
+
+.ultags li a:hover {
+  background-color: #ecf0f1;
+}
+
 .about {
   margin: 0 0 40px;
   text-align: center;
