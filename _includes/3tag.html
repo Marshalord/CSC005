@@ -1,0 +1,11 @@
+---
+layout: null
+styles: [tagCloud.css]
+scripts: [tagCloud.js]
+---
+
+<div class="tagCloud">
+    {% for tag in site.tags %}
+    <a href="#{{ tag | first }}">{{ tag | first }}</a>
+    {% endfor %}
+</div>
