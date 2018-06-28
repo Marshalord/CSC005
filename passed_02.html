@@ -4,7 +4,7 @@ title: CSC005
 permalink: /passed/02/
 ---
 {% for post in site.posts%}
-{% assign sday={{site.time|date:'%d'}} %}{% assign syday={{sday|abs}}|plus:-3%}
+{% assign sday={{site.time|date:'%d'}} %}{% assign syday={{sday|abs}}|plus:-2%}
 {% assign pday={{post.date|date:'%d'}} %}{% assign pyday={{pday|abs}}%}
   {% if pyday == syday %}
   <article class="post">         
