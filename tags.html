@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Tags
+title: Keywords
 permalink: /tags/
 ---
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
@@ -8,9 +8,6 @@ permalink: /tags/
 
 
 <section class="blog-tags">
-  <h1>Keywords</h1>
-  <ul class="tags">
-
 <!--cycles through tag list and creates subheader for each tag name...-->
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
