@@ -1,7 +1,3 @@
----
-    layout: null
----
-
 /**
  * 页面ready方法
  */
