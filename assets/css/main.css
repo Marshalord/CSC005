@@ -951,6 +951,8 @@ table tfoot td {
       -ms-flex-pack: justify;
           justify-content: space-between;
   position: fixed;
+  top: 0;
+  left: 0;
   width: 240px;
   height: 100%;
   padding: 20px;
