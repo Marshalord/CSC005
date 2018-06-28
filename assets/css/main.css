@@ -974,8 +974,6 @@ table tfoot td {
   width: 100%;
   background-color: #ffffff;
   padding: 0 20px 20px;
-  overflow: scroll;
-
 }
 
 .ulblog-tags h1 {
@@ -986,13 +984,15 @@ table tfoot td {
 }
 
 .ultags {
-  margin: 0;
-  padding: 10px;
+  margin: 1px;
+  padding: 1px;
+  overflow: scroll;
+
 }
 
 .ultags li {
   display: inline-block;
-  margin: 5px;
+  margin: 2px;
   list-style: none;
 }
 
@@ -1000,7 +1000,7 @@ table tfoot td {
   text-decoration: none;
   color: #263959;
   display: inline-block;
-  padding: 2px 2px;
+  padding: 2px;
   border: 1px solid #ecf0f1;
   background-color: #fafafa;
   -webkit-transition: all .3s;
