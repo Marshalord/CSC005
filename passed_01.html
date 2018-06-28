@@ -3,7 +3,6 @@ layout: main
 title: CSC005
 permalink: /passed/01/
 ---
-{% include rightside.html %}
 {% for post in site.posts%}
 {% assign sday={{site.time|date:'%d'}} %}{% assign syday={{sday|abs}}|plus:-2%}
 {% assign pday={{post.date|date:'%d'}} %}{% assign pyday={{pday|abs}}%}

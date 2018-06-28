@@ -2,7 +2,6 @@
 layout: main
 ---
 
-{% include rightside.html %}
 {% for post in site.posts limit:20 %}
 
 {% assign sday={{site.time|date:'%d'}} %}{% assign syday={{sday|abs}}|plus:-1%}
