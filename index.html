@@ -3,7 +3,7 @@ layout: main
 ---
 {% for post in site.posts limit:20 %}
 
-{% assign sday={{site.time|date:'%d'}} %}{% assign syday={{sday|abs}}%}
+{% assign sday={{site.time|date:'%d'}} %}{% assign syday={{sday|abs}}|plus:-1%}
 {% assign pday={{post.date|date:'%d'}} %}{% assign pyday={{pday|abs}}%}
   {% if pyday == syday %}
 
