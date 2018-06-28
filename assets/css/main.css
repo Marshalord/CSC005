@@ -1051,6 +1051,7 @@ table tfoot td {
   -webkit-align-items: stretch;
       -ms-flex-align: stretch;
           align-items: stretch;
+  width: 1000px;
 }
 
 .contact .contact-title {
