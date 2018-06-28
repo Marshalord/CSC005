@@ -958,7 +958,7 @@ table tfoot td {
   padding: 0;
   margin-left: 1250px;
   float: right;
-  overflow-y: scroll;
+  overflow-y: auto;
   overflow-x: hidden;
 
 }
