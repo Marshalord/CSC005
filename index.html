@@ -2,7 +2,7 @@
 layout: main
 ---
 <!--for post-->
-{% for post in site.posts limit:20 %}
+{% for post in site.posts %}
 
 {% assign sday={{site.time|date:'%d'}} %}
 
@@ -38,7 +38,6 @@ layout: main
 {% assign syday={{sday|abs}}|plus:-1%}
 {% assign smonth={{site.time|date:'%m'}} %}{% assign symonth={{smonth|abs}}%}
 {% endif %}
-<div>{{symonth}}.{{syday}}</div>
 
 <!--if month of post is current month-->
 {% assign pmonth={{post.date|date:'%m'}} %}{% assign pymonth={{pmonth|abs}}%}

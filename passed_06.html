@@ -40,7 +40,6 @@ permalink: /passed/06/
   {% assign syday={{sday|abs}}|plus:-7%}
   {% assign smonth={{site.time|date:'%m'}} %}{% assign symonth={{smonth|abs}}%}
   {% endif %}
-<div>{{symonth}}.{{syday}}</div>
 
 <!--if month of post is current month-->
   {% assign pmonth={{post.date|date:'%m'}} %}{% assign pymonth={{pmonth|abs}}%}
