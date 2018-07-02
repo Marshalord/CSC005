@@ -8,7 +8,7 @@ permalink: /passed/01/
   {% assign sday={{site.time|date:'%d'}} %}
 
   <div>{{sday}}</div>
-  {% if sday == 02 %}
+  {% if sday < 3 %}
   {% assign smonth={{site.time|date:'%m'}} %}{% assign symonth={{smonth|abs}}|plus:-1%}
   {% assign syday={{sday|abs}}|plus:29%}
 
