@@ -5,7 +5,7 @@ permalink: /passed/01/
 ---
 {% for post in site.posts%}
 
-  {% assign sday={{site.time|date:'%d'}} %}
+  {% assign sday={{site.time|date:'%d'|abs}} %}
 
   <div>{{sday}}</div>
   {% if sday < 3 %}
