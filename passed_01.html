@@ -10,9 +10,14 @@ permalink: /passed/01/
 
 
 {% assign syday={{sday|abs}}|plus:-2%}
+{% assign smonth={{site.time|date:'%m'}} %}{% assign symonth={{smonth|abs}}%}
+<div>{{symonth}}.{{syday}}</div>
 
+<!--if month of post is current month-->
+{% assign pmonth={{post.date|date:'%m'}} %}{% assign pymonth={{pmonth|abs}}%}
+{% if pymonth == symonth %}
 
-
+<!--if day of post is current day-->
 {% assign pday={{post.date|date:'%d'}} %}{% assign pyday={{pday|abs}}%}
   {% if pyday == syday %}
   <article class="post">         
@@ -33,12 +38,16 @@ permalink: /passed/01/
 
   </article>
 
-
+<!--if day of post is current day-->
   {% else %}
     {% continue %}
   {% endif %}
 
-
+<!--if month of post is current month-->
+{% else %}
+{% continue %}
+<!--if month of post is current month-->
+{% endif %}
 
 {% endfor %}
 
