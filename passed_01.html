@@ -10,10 +10,36 @@ permalink: /passed/01/
 
 {% if sday == 2 %}
 {% assign smonth={{site.time|date:'%m'}} %}{% assign symonth={{smonth|abs}}|plus:-1%}
-{% assign syday={{sday|abs}}|plus:29%}
+{% case symonth %}
+  {% when 1 %}
+  {% assign syday={{sday|abs}}|plus:29%}
+  {% when 2 %}
+  {% assign syday={{sday|abs}}|plus:26%}
+  {% when 3 %}
+  {% assign syday={{sday|abs}}|plus:29%}
+  {% when 4 %}
+  {% assign syday={{sday|abs}}|plus:28%}  
+  {% when 5 %}
+  {% assign syday={{sday|abs}}|plus:29%}
+  {% when 6 %}
+  {% assign syday={{sday|abs}}|plus:28%}  
+  {% when 7 %}
+  {% assign syday={{sday|abs}}|plus:29%}
+  {% when 8 %}
+  {% assign syday={{sday|abs}}|plus:29%} 
+  {% when 9 %}
+  {% assign syday={{sday|abs}}|plus:28%}
+  {% when 10 %}
+  {% assign syday={{sday|abs}}|plus:29%}  
+  {% when 11 %}
+  {% assign syday={{sday|abs}}|plus:28%}
+  {% when 12 %}
+  {% assign syday={{sday|abs}}|plus:29%}
+{% endcase %}
 {% else %}
 {% assign syday={{sday|abs}}|plus:-2%}
 {% assign smonth={{site.time|date:'%m'}} %}{% assign symonth={{smonth|abs}}%}
+{% endif %}
 <div>{{symonth}}.{{syday}}</div>
 
 <!--if month of post is current month-->
