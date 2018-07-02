@@ -9,32 +9,32 @@ layout: main
   {% if syday > 0 %}
   {% assign smonth={{site.time|date:'%m'}} %}{% assign symonth={{smonth|abs}}|plus:-1%}
   {% case symonth %}
-    {% when '1' %}
+    {% when 1 %}
       31
-    {% when '2' %}
+    {% when 2 %}
       28
-    {% when '3' %}
+    {% when 3 %}
       31
-    {% when '4' %}
+    {% when 4 %}
       30  
-    {% when '5' %}
+    {% when 5 %}
       31
-    {% when '6' %}
+    {% when 6 %}
       30  
-    {% when '7' %}
+    {% when 7 %}
       31
-    {% when '8' %}
-      31  
-    {% when '9' %}
+    {% when 8 %}
+      31 
+    {% when 9 %}
       30
-    {% when '10' %}
+    {% when 10 %}
       31  
-    {% when '11' %}
+    {% when 11 %}
       30
-    {% when '12' %}
+    {% when 12 %}
       31
     {% else %}
-      This is not a month
+      This is not a month{{symonth}}
   {% endcase %}
 {% endif %}222</div>
 
