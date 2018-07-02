@@ -6,7 +6,7 @@ layout: main
 
 {% assign sday={{site.time|date:'%d'}} %}{% assign syday={{sday|abs}}|plus:-1%}
 <div>111
-  {% if syday <= 0 %}
+  {% if syday > 0 %}
   {% assign smonth={{site.time|date:'%m'}} %}{% assign symonth={{smonth|abs}}|plus:-1%}
   {% case symonth %}
     {% when '1' %}
