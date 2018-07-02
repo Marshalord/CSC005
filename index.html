@@ -1,43 +1,49 @@
 ---
 layout: main
 ---
-
+<!--for post-->
 {% for post in site.posts limit:20 %}
 
-{% assign sday={{site.time|date:'%d'}} %}{% assign syday={{sday|abs}}|plus:-1%}
-<div>111
-  {% if syday > 0 %}
+{% assign sday={{site.time|date:'%d'}} %}
+
+  {% if sday == 1 %}
   {% assign smonth={{site.time|date:'%m'}} %}{% assign symonth={{smonth|abs}}|plus:-1%}
   {% case symonth %}
     {% when 1 %}
-      31
+    {% assign syday=31%}
     {% when 2 %}
-      28
+    {% assign syday=28%}
     {% when 3 %}
-      31
+    {% assign syday=31%}
     {% when 4 %}
-      30  
+    {% assign syday=30%}  
     {% when 5 %}
-      31
+    {% assign syday=31%}
     {% when 6 %}
-      30  
+    {% assign syday=30%}  
     {% when 7 %}
-      31
+    {% assign syday=31%}
     {% when 8 %}
-      31 
+    {% assign syday=31%} 
     {% when 9 %}
-      30
+    {% assign syday=30%}
     {% when 10 %}
-      31  
+    {% assign syday=31%}  
     {% when 11 %}
-      30
+    {% assign syday=30%}
     {% when 12 %}
-      31
-    {% else %}
-      This is not a month{{symonth}}
+    {% assign syday=31%}
   {% endcase %}
-{% endif %}222</div>
+{% else %}
+{% assign syday={{sday|abs}}|plus:-1%}
+{% assign smonth={{site.time|date:'%m'}} %}{% assign symonth={{smonth|abs}}%}
+{% endif %}
+<div>{{symonth}}</div>
+<!--if month of post is current month-->
+{% assign pmonth={{post.date|date:'%m'}} %}{% assign pymonth={{pmonth|abs}}%}
+  {% if pymonth == symonth %}
 
+<!--if day of post is current day-->
 {% assign pday={{post.date|date:'%d'}} %}{% assign pyday={{pday|abs}}%}
   {% if pyday == syday %}
 
@@ -56,10 +62,18 @@ layout: main
     {% endfor %}
   </div>
 </article>
-
+<!--if day of post is current day-->
 {% else %}
 {% continue %}
+<!--if day of post is current day-->
 {% endif %}
 
+<!--if month of post is current month-->
+{% else %}
+{% continue %}
+<!--if month of post is current month-->
+{% endif %}
+
+<!--for post-->
 {% endfor %}
 {% include pagination.html %}
