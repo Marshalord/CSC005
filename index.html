@@ -4,9 +4,13 @@ layout: main
 <!--for post-->
 {% for post in site.posts %}
 
-{% assign sday={{site.time|date:'%d'}} %}
+<!--sday is current day-->
+{% assign sday={{site.time|date:'%d'|abs}} %}
 
+<!--the first day in every month can not minus 1-->
   {% if sday == 1 %}
+
+<!--smonth is current month. symonth is last month-->
   {% assign smonth={{site.time|date:'%m'}} %}{% assign symonth={{smonth|abs}}|plus:-1%}
   {% case symonth %}
     {% when 1 %}
@@ -34,9 +38,12 @@ layout: main
     {% when 12 %}
     {% assign syday=31%}
   {% endcase %}
+<!--smonth is current month. symonth is last month-->
 {% else %}
 {% assign syday={{sday|abs}}|plus:-1%}
 {% assign smonth={{site.time|date:'%m'}} %}{% assign symonth={{smonth|abs}}%}
+
+<!--smonth is current month. symonth is last month-->
 {% endif %}
 
 <!--if month of post is current month-->
@@ -62,6 +69,7 @@ layout: main
     {% endfor %}
   </div>
 </article>
+
 <!--if day of post is current day-->
 {% else %}
 {% continue %}
