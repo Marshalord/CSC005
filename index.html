@@ -38,7 +38,8 @@ layout: main
 {% assign syday={{sday|abs}}|plus:-1%}
 {% assign smonth={{site.time|date:'%m'}} %}{% assign symonth={{smonth|abs}}%}
 {% endif %}
-<div>{{symonth}}</div>
+<div>{{symonth}}.{{syday}}</div>
+
 <!--if month of post is current month-->
 {% assign pmonth={{post.date|date:'%m'}} %}{% assign pymonth={{pmonth|abs}}%}
   {% if pymonth == symonth %}

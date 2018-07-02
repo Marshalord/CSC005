@@ -4,9 +4,51 @@ title: CSC005
 permalink: /passed/05/
 ---
 {% for post in site.posts%}
-{% assign sday={{site.time|date:'%d'}} %}{% assign syday={{sday|abs}}|plus:-6%}
-{% assign pday={{post.date|date:'%d'}} %}{% assign pyday={{pday|abs}}%}
-  {% if pyday == syday %}
+
+  {% assign sday={{site.time|date:'%d'|abs}} %}
+
+  {% if sday < 7 %}
+  {% assign smonth={{site.time|date:'%m'}} %}{% assign symonth={{smonth|abs}}|plus:-1%}
+  {% case symonth %}
+  {% when 1 %}
+  {% assign syday={{sday}}|plus:25%}
+  {% when 2 %}
+  {% assign syday={{sday}}|plus:22%}
+  {% when 3 %}
+  {% assign syday={{sday}}|plus:25%}
+  {% when 4 %}
+  {% assign syday={{sday}}|plus:24%}  
+  {% when 5 %}
+  {% assign syday={{sday}}|plus:25%}
+  {% when 6 %}
+  {% assign syday={{sday}}|plus:24%}  
+  {% when 7 %}
+  {% assign syday={{sday}}|plus:25%}
+  {% when 8 %}
+  {% assign syday={{sday}}|plus:25%} 
+  {% when 9 %}
+  {% assign syday={{sday}}|plus:24%}
+  {% when 10 %}
+  {% assign syday={{sday}}|plus:25%}  
+  {% when 11 %}
+  {% assign syday={{sday}}|plus:24%}
+  {% when 12 %}
+  {% assign syday={{sday}}|plus:25%}
+{% endcase %}
+
+  {% else %}
+  {% assign syday={{sday|abs}}|plus:-6%}
+  {% assign smonth={{site.time|date:'%m'}} %}{% assign symonth={{smonth|abs}}%}
+  {% endif %}
+<div>{{symonth}}.{{syday}}</div>
+
+<!--if month of post is current month-->
+  {% assign pmonth={{post.date|date:'%m'}} %}{% assign pymonth={{pmonth|abs}}%}
+  {% if pymonth == symonth %}
+
+<!--if day of post is current day-->
+  {% assign pday={{post.date|date:'%d'}} %}{% assign pyday={{pday|abs}}%}
+    {% if pyday == syday %}
   <article class="post">         
 
     {% if post.img %}
@@ -24,10 +66,18 @@ permalink: /passed/05/
     </div>
 
   </article>
+
+<!--if day of post is current day-->
   {% else %}
     {% continue %}
   {% endif %}
-{% endfor %}
 
+<!--if month of post is current month-->
+{% else %}
+{% continue %}
+<!--if month of post is current month-->
+{% endif %}
+
+{% endfor %}
 
 {% include pagination.html %}
