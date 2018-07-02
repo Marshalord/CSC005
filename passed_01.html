@@ -5,26 +5,26 @@ permalink: /passed/01/
 ---
 {% for post in site.posts%}
 
-{% assign sday={{site.time|date:'%d'}} %}
+  {% assign sday={{site.time|date:'%d'}} %}
 
 
-{% if sday == 2 %}
-{% assign smonth={{site.time|date:'%m'}} %}{% assign symonth={{smonth|abs}}|plus:-1%}
-{% assign syday={{sday|abs}}|plus:29%}
+  {% if sday == 2 %}
+  {% assign smonth={{site.time|date:'%m'}} %}{% assign symonth={{smonth|abs}}|plus:-1%}
+  {% assign syday={{sday|abs}}|plus:29%}
 
-{% else %}
-{% assign syday={{sday|abs}}|plus:-2%}
-{% assign smonth={{site.time|date:'%m'}} %}{% assign symonth={{smonth|abs}}%}
-{% endif %}
+  {% else %}
+  {% assign syday={{sday|abs}}|plus:-2%}
+  {% assign smonth={{site.time|date:'%m'}} %}{% assign symonth={{smonth|abs}}%}
+  {% endif %}
 <div>{{symonth}}.{{syday}}</div>
 
 <!--if month of post is current month-->
-{% assign pmonth={{post.date|date:'%m'}} %}{% assign pymonth={{pmonth|abs}}%}
-{% if pymonth == symonth %}
+  {% assign pmonth={{post.date|date:'%m'}} %}{% assign pymonth={{pmonth|abs}}%}
+  {% if pymonth == symonth %}
 
 <!--if day of post is current day-->
-{% assign pday={{post.date|date:'%d'}} %}{% assign pyday={{pday|abs}}%}
-  {% if pyday == syday %}
+  {% assign pday={{post.date|date:'%d'}} %}{% assign pyday={{pday|abs}}%}
+    {% if pyday == syday %}
   <article class="post">         
 
     {% if post.img %}
