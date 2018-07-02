@@ -1,0 +1,8 @@
+---
+layout: post
+title: Adidas warns U.S. customers of new data breach
+date: 2018-06-28 20:20:16
+tourl: https://www.cyberscoop.com/adidas-data-breach/?category_news=technology
+tags: [law]
+---
+Multinational athletic apparel company Adidas is the latest corporate titan to have a data breach.The company announced on Thursday that customers who made purchases from the U.S. website may have had data exposed to an unidentified third party.On June 26, Adidas became aware that an unauthorized party claims to have acquired limited data associated with certain Adidas customers, Exposed data includes encrypted passwords, usernames and contact information. The company said they believe customers financial and fitness data was not impacted.The company and law enforcement are conducting investigations.CyberScoop has reached out to Adidas for more information.
