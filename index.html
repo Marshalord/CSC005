@@ -5,7 +5,7 @@ layout: main
 {% for post in site.posts limit:20 %}
 
 {% assign sday={{site.time|date:'%d'}} %}{% assign syday={{sday|abs}}|plus:-1%}
-<div>
+<div>111
   {% if syday <= 0 %}
   {% assign smonth={{site.time|date:'%m'}} %}{% assign symonth={{smonth|abs}}|plus:-1%}
   {% case symonth %}
@@ -36,7 +36,7 @@ layout: main
     {% else %}
       This is not a month
   {% endcase %}
-{% endif %}</div>
+{% endif %}222</div>
 
 {% assign pday={{post.date|date:'%d'}} %}{% assign pyday={{pday|abs}}%}
   {% if pyday == syday %}
