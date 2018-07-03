@@ -1,0 +1,8 @@
+---
+layout: post
+title: NSA Deletes Hundreds of Millions of Call Records Over \
+date: 2018-07-02 09:20:19
+tourl: https://www.bleepingcomputer.com/news/government/nsa-deletes-hundreds-of-millions-of-call-records-over-technical-irregularities/
+tags: [National Security Agency,NSA,act,frame]
+---
+The US National Security Agency (NSA) The Agency said it was removing the data from its systems after NSA analysts spotted "technical irregularities in some data received from telecommunications service providers."The NSA is authorized under Title V of the Foreign Intelligence Surveillance Act (FISA) and through the USA Freedom Act of 2015 to collect call metadata on particular types of calls involving persons of interest that may pose a threat to national security.But the NSA says it noticed this spring that it was receiving more call detail records (CDRs) that it was supposed to get under the current legal frame.The NSA says malformed CDRs date back to 2015. The agency started the deletion process on May 23, this year, but only announced it last week."The root cause of the problem has since been addressed for future CDR acquisitions," the NSA saidNSA officials said they reported the incident to supervising authorities, such as the Congressional Oversight Committees, the Privacy and Civil Liberties Oversight Board, and the Department of Justice (which, in turn, notified the Foreign Intelligence Surveillance Court).In a 
