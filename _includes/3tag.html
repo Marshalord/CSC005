@@ -206,6 +206,6 @@
 <div class="tagCloud">
 
     {% for tag in site.tags %}
-    <a href="{{site.selfurl}}tags/#{{ tag | first }}">{{ tag | first }}</a>
+    <a href="{{site.selfurl}}tags/#{{ tag | first | cgi_escape }}">{{ tag | first }}</a>
     {% endfor %}
 </div>
