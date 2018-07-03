@@ -62,7 +62,7 @@ layout: default
           <!--  cycles through tag list and creates header row of all tags used in site with accompanying per-tag counts...-->
           {% for item in (0..site.tags.size) %}{% unless forloop.last %} {% capture this_word %}{{ tag_words[item] | strip_newlines}}{% endcapture %}
           <li>
-            <a href="{{site.selfurl}}tags/#{{ this_word | cgi_escape }}" class="tag">{{ this_word }}{{ tag_words[item] | strip_newlines}}
+            <a href="{{site.selfurl}}tags/#{{ this_word | cgi_escape }}" class="tag">{{ this_word | cgi_escape  }}
               <span>({{ site.tags[this_word].size }})</span>
             </a>
           </li>
