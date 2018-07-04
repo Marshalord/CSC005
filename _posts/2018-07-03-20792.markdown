@@ -1,0 +1,8 @@
+---
+layout: post
+title: Smoking Guns  Smoke Loader learned new tricks
+date: 2018-07-03 00:00:12
+tourl: https://blogs.cisco.com/security/talos/smoking-guns-smoke-loader-learned-new-tricks
+tags: [Malware,Exploit]
+---
+tttCisco Talos has been tracking a new version of Smoke Loader  a malicious application that can be used to load other malware  for the past several months following an alert from Cisco Advanced Malware Protections (AMP) Exploit Prevention engine. AMP successfully stopped the malware before it was able to infect the host, but further analysis showed some developments in the Smoke Loader sample resulting from this chain of malware that intrigued us. This includes one of the first uses of the PROPagate injection technique in real-world malware. Besides a We'd love to hear from you! To earn points and badges for participating in the conversation, join 
