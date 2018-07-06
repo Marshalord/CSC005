@@ -1,0 +1,111 @@
+DOD
+NIPRNEet
+SSRF
+DNS
+TLS
+APT10
+APT28
+APT33
+APT34
+APT35
+WebAuthn
+Biometric
+Breaking CFI
+Scanning Activity 
+China
+Vincentyiu
+Crowdstrike
+Falcon X
+Cybersecurity Tech Accord
+Exploitation 
+User to system EoP
+0day
+Exploit
+Hack
+Attack
+0-day
+MikroTik
+Routeros
+WhatsApp
+GDPR
+Telegram
+AWS
+NSA
+National Security Agency
+DHS
+Department of Homeland Security
+National Protection & Programs Directorate
+NPPD
+NSC
+National Security Council
+Tailored Access Operations
+TAO
+The Office of E-Government and Information Technology
+E-Gov
+CIO Council
+Commission on Enhancing National Cybersecurity
+American Technology Council
+Information and Communications Infrastructure Interagency Policy Committee
+ICI-IPC
+The International Sub-IPC
+Cyber and Technology Security
+CTS
+Office of Cyber Affairs
+INR/CYBER
+Office of International Communications and Information Policy
+EB/CIP
+Cyber Security Division
+CSD
+The Office of the Director of National Intelligence
+ODNI
+Cyber Threat Intelligence Integration Center
+CTIIC
+National Institute of Standards and Technology
+NIST
+U.S. Government Accountability Office
+GAO
+Office of the Cyber Policy
+DoD Cyber Crime Center
+DC3
+Cyber Command
+McBee Strategic Consulting
+Peck Madigan Jones
+Van Scoyoc Associates
+Franklin Square Group
+Monument Policy Group
+Mehlman Castagnetti Rosen&Thomas
+Mehlman Castagnetti Bingel Rosen&Thomas
+Ogilvy Government Relations
+Center for Strategic & International Studies
+CSIS
+Center for a New American Security
+CNAS
+Atlantic Council
+Brookings Institution
+Council on Foreign Relations
+CFR
+Carnegie Endowment For International Peace
+EastWest Institute
+EWI
+Wilson Center
+Cato Institute
+Information Technology&Innovation Foundation
+ITIF
+Center for Data Innovation
+CDI
+CIO
+CISO
+White House Cybersecurity Coordinator
+Director of the White House's American Technology Council
+The Coordinator for Cyber Issues
+Law
+Act
+Bill
+Draft
+Projet
+Regulations
+Frame
+Military exercise
+NATO
+FIREEYE
+Malware
