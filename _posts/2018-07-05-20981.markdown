@@ -1,0 +1,8 @@
+---
+layout: post
+title: Machine Learning, Cloud, Compliance and Business Awareness Drive Cybersecurity
+date: 2018-07-05 00:00:11
+tourl: https://www.infosecurity-magazine.com:443/news/machine-learning-cloud-compliance/
+tags: [Malware]
+---
+Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.Senior businesses awareness of cybersecurity, legal and compliance issues and cloud-delivered products are some of the trends driving the industry, according to According to its In regard to cloud computing, which Gartner said is affected by trends 3 and 6, new detections technologies, activities and authentication models require vast amounts of data that can quickly overwhelm current on-premises security solutions and this is driving a rapid shift toward cloud-delivered security products which are more capable of using the data in near real time to provide more-agile and adaptive solutions.Also with regards to emerging trends, Gartner predicted that by 2025, machine learning will be a normal part of security solutions and will offset ever-increasing skills and staffing shortages as well as offering solutions to multiple security issues, such as adaptive authentication, insider threats, malware and advanced attackers.Unless a vendor can explain in clear terms how its machine learning implementation enables its product to outperform competitors or previous approaches, it's very difficult to unpack marketing from good machine learning.
