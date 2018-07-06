@@ -66,6 +66,7 @@ layout: main
     {% for tag in post.tags %}
     <span class="post-words"><a href="{{site.selfurl}}tags/#{{ tag | cgi_escape}}">{{ tag }}</a></span>
     <span>&nbsp;&nbsp;</span>
+    <span class="post-download"><a href="">下载信息{{post.path}}</a></span>
     {% endfor %}
   </div>
 </article>
