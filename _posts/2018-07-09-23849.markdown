@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-09 00:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Exploitation]
+---
+CVE-2018-6965 VMware ESXi (6.7 before ESXi670-201806401-BG), Workstation (14.x before 14.1.2), and Fusion (10.x before 10.1.2) contain an out-of-bounds read vulnerability in the shader translator. Successful exploitation of this ... https://t.co/ZePJ3QTs8V

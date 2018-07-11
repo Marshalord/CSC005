@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-09 00:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Exploitation]
+---
+CVE-2018-4946 Adobe Photoshop CC versions 19.1.3 and earlier, 18.1.3 and earlier, and 18.1.2 and earlier have an Out-of-bounds write vulnerability. Successful exploitation could lead to arbitrary code execution in the context of ... https://t.co/9wWcvk1d2r

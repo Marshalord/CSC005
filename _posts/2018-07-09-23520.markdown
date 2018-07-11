@@ -1,0 +1,8 @@
+---
+layout: post
+title: 2020 Vision: California sees the future, and it looks like GDPR
+date: 2018-07-09 00:02:12
+tourl: https://www.cyberscoop.com/california-privacy-act-op-ed-ken-spinner/?category_news=technology
+tags: [GDPR,Law]
+---
+The While residents of all 50 states are already covered under a patchwork of breach notification and privacy laws, the California legislation introduces some significant changes. Californians will have the power to ask companies to cough up all the data theyve collected about them. They also will be able to tell these same companies to delete everything  personal information, data on whats been shared, clicked on, and more  much like European Union residents are protected under the GDPRs right to be forgotten.What can we expect looking forward? Here are three predictions:While many are speculating how the legislation will affect industry giants like Facebook and Google, its impact casts a wide net and will be felt by brick-and-mortar companies and service providers, including healthcare, finance and law firms  forcing them to navigate a new wave of privacy protections.For California residents, the implications on everyday data collection and privacy are expansive  from the footsteps recorded on your fitness tracker, to your internet search history to your social media data. Some say the new legislation will stifle industry creativity and have a negative impact on customer experience. However, just as the internet and rise of big data encouraged innovation among consumer tech giants, new privacy legislation could foster new advancements.The clock is ticking, and with just 18 months to go, companies have much to learn from their EU counterparts. Its time to get to work.

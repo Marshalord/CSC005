@@ -1,0 +1,8 @@
+---
+layout: post
+title: Apple's iOS 11.4.1 blocks tools governments use to crack open iPhones
+date: 2018-07-09 00:02:11
+tourl: https://www.cyberscoop.com/apples-ios-11-4-1-blocks-tools-governments-use-crack-open-iphones/?category_news=technology
+tags: [Law]
+---
+After months of hints and restarts, Apple has included a key new security feature in the newly released iOS 11.4.1: USB Restricted Mode.The new mode restricts access to iPhones by USB devices and thereby aims to stymie the tools that law enforcement, intelligence agencies and private companies like The new restricted mode is on by default. You can see it in the passcode settings on iOS devices where the setting for USB Accessories is by default off. After one hour, iOS blocks USB accessories connecting to the device through cable adapters to the phones Lightning port.Will this effectively shut out tools like Cellebrite and If the companies and their government customers are unable to crack the new iOS feature, it may trigger a return to the security standoff that included the moment in 2016 when then-presidential candidate Donald Trump suggested boycotting Apple if it didnt write code to let police access suspects devices.Dave Maynor, who works on the threat intelligence team at Talos, Apple did not respond to a request for comment. Last month, the company explained the feature.Were constantly strengthening the security protections in every Apple product to help customers defend against hackers, identity thieves and intrusions into their personal data, an Apple spokesperson said in a statement. We have the greatest respect for law enforcement, and we dont design our security improvements to frustrate their efforts to do their jobs.

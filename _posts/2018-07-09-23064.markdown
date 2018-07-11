@@ -1,0 +1,8 @@
+---
+layout: post
+title: Linux Security Labs
+date: 2018-07-09 00:00:21
+tourl: https://t.co/ee1vBPOO91
+tags: [Exploitation]
+---
+Tool review: Metasploit Framework (penetration toolkit) by @hdmoore #pentesting #exploitation https://t.co/lI8ukBoAXI

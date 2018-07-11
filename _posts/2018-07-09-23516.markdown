@@ -1,0 +1,8 @@
+---
+layout: post
+title: Proposed Changes to New Zealand's Privacy Act
+date: 2018-07-09 00:02:13
+tourl: https://www.infosecurity-magazine.com:443/news/proposed-changes-to-new-zealand/
+tags: [Bill,Act,Regulations]
+---
+Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.A new bill to repeal and replace the 1993 Privacy Act of New Zealand is awaiting approval. If the changes are accepted, the bill would mandate that public and private sector agencies notify affected individuals and the Privacy Commissioner when they experience a data breach that poses a risk of harm, according to First introduced on 20 March 2018, the bill is currently in select committee. According to Parliament, Its key purpose is to promote peoples confidence that their personal information is secure and will be treated properly.Australia made similar changes to its privacy regulations, which went into effect in February 2018. In the months that followed, the country was the target of some high profile breaches, most notably the While New Zealand was impacted by the breach, they do not have the same mandatory data breach notification regulations.The 2018 first quarter By providing a framework for protecting an individuals right to privacy of personal information, the bill aims to establish an internationally recognized standard for privacy obligations, which includes the The proposed 

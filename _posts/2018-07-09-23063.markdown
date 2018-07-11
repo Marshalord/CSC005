@@ -1,0 +1,14 @@
+---
+layout: post
+title: Malwrologist
+date: 2018-07-09 00:00:21
+tourl: https://t.co/DMaAFKt4hs
+tags: [Exploit]
+---
+#malicious #rtf (Microsoft Equation 3.0 exploit) execute #bat file (%tmp%\dast.bat) -&gt; #powershell -&gt; #PE 
+hxxp://er-nnest.ga/.x/4.exe
+https://t.co/7haN7XsmWU
+#opendir: 
+#IndoXploit panel /.x/nlinux.php
+#XSO 2.6 panel /cnn.php
+#phishing /_path.scss/manage/upgrade/ova https://t.co/OSibUBGYPX

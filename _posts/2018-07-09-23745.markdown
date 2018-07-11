@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-09 00:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Exploitation]
+---
+CVE-2018-4989 Adobe Acrobat and Reader versions 2018.011.20038 and earlier, 2017.011.30079 and earlier, and 2015.006.30417 and earlier have a Use-after-free vulnerability. Successful exploitation could lead to arbitrary code ... https://t.co/AUS1JJbfmP

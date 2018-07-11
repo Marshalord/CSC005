@@ -1,0 +1,8 @@
+---
+layout: post
+title: Metro's Cybersecurity Audit Kept Classified
+date: 2018-07-09 00:02:11
+tourl: https://www.infosecurity-magazine.com:443/news/metros-cybersecurity-audit-kept/
+tags: [Exploit]
+---
+Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.Officials at Washington D.C.s The audit was reportedly conducted behind closed doors by Metros board of directors in late June, and the results remain classified in order to help prevent any future attacks should malicious actors try to exploit any of the known vulnerabilities that were identified.Transportation is one of the areas of primary concern when it comes to attacks on critical infrastructure, and the This recent audit is only one of several security-related audits scheduled over the next fiscal year. The June audit focused largely on Metros incident response plan and looked to identify where its people, processes and procedures could be improved. Across all sectors of cybersecurity, the growing skills gap limits an organizations ability to detect and respond to attacks. The results of Metros audit showed where its most vulnerable, paving the path to minimize gaps in order to reduce risk.The next six scheduled reviews will examine additional risks, from a massive data breach of SmarTrip card information to potential attacks that could interfere with critical safety operations such as rail traffic control systems, gas and fire sensors, the power grid, station ventilation, and voice and data communications, according to the 

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Azeria
+date: 2018-07-09 00:00:21
+tourl: https://t.co/jIUkX6kpWv
+tags: [Exploit]
+---
+Arm registered https://t.co/2RKfXEjpzv to shit on RISC-V, so I just registered https://t.co/Q4R9goR5Ou to host my ARM exploit mitigation bypass tutorials on. ???????? https://t.co/0mSWPJXCJb
