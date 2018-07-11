@@ -1,0 +1,8 @@
+---
+layout: post
+title: Black Hat
+date: 2018-07-10 00:00:21
+tourl: http://t.co/aMEkUhZgUH
+tags: [Exploit]
+---
+Lee Christensen (@tifkin_) &amp; Matt Graeber (@mattifestation) exploit popular security tool Sysmon to demonstrate a formalized approach to evasion and tampering in #BHUSA Briefing on Wednesday, August 8 https://t.co/djXAk69FKh

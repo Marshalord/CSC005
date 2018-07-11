@@ -1,0 +1,8 @@
+---
+layout: post
+title: Black Hat
+date: 2018-07-10 00:00:21
+tourl: http://t.co/aMEkUhZgUH
+tags: [Exploit]
+---
+Deep Exploit aids in intelligence gathering, threat modeling, and vulnerability analysis to improve testing efficiency and accuracy #BHUSA Arsenal Demo by @bbr_bbq on August 9 https://t.co/Gil37G6T6m

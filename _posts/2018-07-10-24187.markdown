@@ -1,0 +1,8 @@
+---
+layout: post
+title: Linux Security Labs
+date: 2018-07-10 00:00:21
+tourl: https://t.co/ee1vBPOO91
+tags: [Exploit]
+---
+Tool review: Bowcaster (exploit development framework) by @zcutlip #pentesting #exploit https://t.co/37HsHIWhkq

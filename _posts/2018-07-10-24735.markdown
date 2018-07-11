@@ -1,0 +1,8 @@
+---
+layout: post
+title: Apple fixes iPhone crash bug whenever Taiwan was mentioned
+date: 2018-07-10 00:02:12
+tourl: https://www.zdnet.com/article/a-weird-bug-crashed-some-iphones-to-censor-taiwan/
+tags: [China,WhatsApp]
+---
+(Image: ZDNet)Apple has fixed a bug that could remotely crash some iPhones.The bug caused a crash -- known as a denial-of-service -- when the word "Taiwan" or the Taiwanese flag was mentioned or displayed in any app.The technology giant Wardle, chief research officer at He recounted how a friend of his was unable to type "Taiwan" in her phone for two years without a particular app crashing. After analyzing the crash data, Wardle found the device would crash because of a memory error in how the operating system processes and removes certain emojis when a device's region is not correctly set.In doing so, it would return a "null" value, which caused the crash. In case you didn't know, Apple removes certain emojis at China's request. In the case of Taiwan, China's relationship with the territory is fraught at best. China claims the country as its territory, but Taiwan claims it has the right to self-govern. China, as it often does, responded with censorship. It's believed that Apple Anyone with that language setting wouldn't see the emoji but would instead see a square with a cross through it.Simply switching the region back again would fix the issue. Mystery solved.Apple did not immediately respond to a request for comment.You can send tips securely over Signal and WhatsApp at 646-7558849. You can also send PGP email with the fingerprint: 4D0E 92F2 E36A EC51 DAAE 5D97 CB8C 15FA EB6C EEA5.

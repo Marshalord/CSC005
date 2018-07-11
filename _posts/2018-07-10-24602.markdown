@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-10 00:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Exploit]
+---
+CVE-2018-1549 IBM Rational Quality Manager 5.0 through 5.0.2 and 6.0 through 6.0.5 are vulnerable to HTTP response splitting attacks. A remote attacker could exploit this vulnerability using specially-crafted URL to cause the ... https://t.co/6yHr7xvnem

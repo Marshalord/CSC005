@@ -1,0 +1,12 @@
+---
+layout: post
+title: The Hacker News
+date: 2018-07-10 00:00:20
+tourl: https://t.co/tbidM9ew0f
+tags: []
+---
+July 2018 #PatchTuesdayAdobe Releases Security Updates For a Total 112 Vulnerabilities, Affecting #FlashPlayer, Adobe Experience Manager, #Adobe Connect, Adobe Acrobat and Reader | by @Swati_THN
+
+https://t.co/hbgaUf6t9w
+
+Most of These Flaws Have a Higher Risk of Being Exploited https://t.co/gmo9o3w4yO

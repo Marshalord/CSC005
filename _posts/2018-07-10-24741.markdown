@@ -1,0 +1,8 @@
+---
+layout: post
+title: Vulnerability Spotlight: Multiple Antenna House Vulnerabilities
+date: 2018-07-10 00:02:11
+tourl: https://blogs.cisco.com/security/talos/vulnerability-spotlight-multiple-antenna-house-vulnerabilities
+tags: [Exploitation]
+---
+tttCisco Talos has identified six vulnerabilities in the Antenna House Office Server Document Converter (OSDC). These vulnerabilities can be used to remotely execute code on a vulnerable system. Antenna House Office Server Document Converter is a product designed to convert Microsoft Office documents into PDF and SVG documents.The vulnerabilities can be exploited to locally execute code, or even remotely if the product is used in batch mode by the owners. In this context, the maliciously crafted document could be automatically handled by the product, and a successful exploitation could result in full control of the vulnerable system.The six vulnerabilities can be exploited by a specially crafted Microsoft Office document.We'd love to hear from you! To earn points and badges for participating in the conversation, join 

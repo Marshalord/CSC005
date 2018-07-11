@@ -1,0 +1,8 @@
+---
+layout: post
+title: Black Hat
+date: 2018-07-10 00:00:21
+tourl: http://t.co/aMEkUhZgUH
+tags: [Exploitation]
+---
+Develop comprehensive knowledge of infrastructure hacking, from identifying targets to post exploitation dumping, in #BHUSA Training taught by @notsosecure https://t.co/CVnSLPVdzd
