@@ -1,0 +1,8 @@
+---
+layout: post
+title: Binni Shah
+date: 2018-07-07 00:00:21
+tourl: https://t.co/LfZIicBDza
+tags: [Exploit]
+---
+Apfell : A macOS, post-exploit, red teaming framework : https://t.co/xqA0hPIlAS , Details : https://t.co/H1YNE6JsCQ cc @its_a_feature_

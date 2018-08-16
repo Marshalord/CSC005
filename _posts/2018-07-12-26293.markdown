@@ -1,0 +1,8 @@
+---
+layout: post
+title: ICO Plans to Slap Ł500K Fine on Facebook
+date: 2018-07-12 00:02:4
+tourl: https://www.infosecurity-magazine.com:443/news/ico-plans-to-slap-500k-fine-on/
+tags: [Act,GDPR]
+---
+Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.The The privacy regulator issued a new report on Wednesday detailing its wide-ranging investigation into the use of data analytics for political campaigning.It claimed to have issued a Notice of Intent to the social network for a monetary penalty of Ĺ500,000 Âfor lack of transparency and security issues relating to the harvesting of data constituting breaches of the first and seventh data protection principles under the Data Protection Act 1998.ÂFacebook has time to appeal later this month.The ICO is also investigating data protection irregularities between Leave.eu and Aaron BanksÂ Eldon Insurance company, the relationship between the Cambridge Analytica-linked AggregateIQ and leave campaigns, the role of data brokers in political campaigns, and more.The regulator has sent warning letters to all 11 political parties with MPs in the Commons that they will be audited later this year.ÂWe have concluded that there are risks in relation to the processing of personal data by many political parties,Â A separateIt called on all third-party platforms to urgently roll out transparency features related to political advertising and said it would work closely with the government to draw up a new statutory code of practice in line with the GDPR/DPA18 to regulate the use of personal data in political campaigns.

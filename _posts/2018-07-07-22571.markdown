@@ -1,0 +1,8 @@
+---
+layout: post
+title: Black Hat
+date: 2018-07-07 00:00:21
+tourl: http://t.co/aMEkUhZgUH
+tags: [Exploit]
+---
+Sean Metcalf (@PyroTek3) will explore how common methods of domain administration fail, an attackers approach to exploit flaws, and ways to ensure a secure administration during his Briefing at #BHUSA https://t.co/64lYasNj8X

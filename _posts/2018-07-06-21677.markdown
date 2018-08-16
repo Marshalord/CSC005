@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-06 00:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Exploit]
+---
+CVE-2018-1546 IBM API Connect 5.0.0.0 through 5.0.8.3 could allow a remote attacker to obtain sensitive information, caused by the failure to properly enable HTTP Strict Transport Security. An attacker could exploit this ... https://t.co/11E5L5Kanr

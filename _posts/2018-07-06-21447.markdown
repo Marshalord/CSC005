@@ -1,0 +1,10 @@
+---
+layout: post
+title: The Hacker News
+date: 2018-07-06 00:00:21
+tourl: https://t.co/tbidM9ew0f
+tags: [Exploit]
+---
+ImportantWordPress has released version 4.9.7 to finally patch a critical "Arbitrary File Deletion" flaw after leaving it unpatched for 7 months, which could allow remote attackers to gain full control over affected websites
+
+Here's how the exploit works: https://t.co/R13RMNHCHy

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Linux Security Labs
+date: 2018-07-07 00:00:21
+tourl: https://t.co/ee1vBPOO91
+tags: [Exploitation]
+---
+Tool review: BeEF (browser exploitation framework) by @WadeAlcorn #exploitation #pentesting https://t.co/uJrMmjJDyV

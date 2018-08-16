@@ -1,0 +1,8 @@
+---
+layout: post
+title: Kevin Beaumont
+date: 2018-07-06 00:00:20
+tourl: https://t.co/mJWyBQgFpy
+tags: []
+---
+I did an interesting thing this week - registered a completely randomly (and long) named .com domain, didn't reference it anywhere online, and watched the HTTP access logs.  Within an hour, Wordpress exploits started and haven't stopped.  People crawling new domain registrations. https://t.co/4w8skoobsx
